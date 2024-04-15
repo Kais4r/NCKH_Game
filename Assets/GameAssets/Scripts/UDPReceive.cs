@@ -4,7 +4,6 @@ using System.Text;
 using System.Net;
 using System.Net.Sockets;
 using System.Threading;
-using UnityEditor.PackageManager;
 
 public class UDPReceive : MonoBehaviour
 {

@@ -11,19 +11,22 @@ public class HandTracking : MonoBehaviour
     void Update()
     {
         string data = udpReceive.data;
-        data = data.Remove(0, 1);
-        data = data.Remove(data.Length - 1, 1);
-        print(data);
-        string[] points = data.Split(',');
-        print(points[0]);
-
-        for(int i = 0; i < 21; i++)
+        if(data != "")
         {
-            float x = float.Parse(points[i * 3])/100 - 7;
-            float y = float.Parse(points[i * 3 + 1]) / 100;
-            float z = float.Parse(points[i * 3 + 2]) / 100;
+            data = data.Remove(0, 1);
+            data = data.Remove(data.Length - 1, 1);
+            //print(data);
+            string[] points = data.Split(',');
+            //print(points[0]);
 
-            HandPoints[i].transform.localPosition = new Vector3(x, y, z);
+            for (int i = 0; i < 21; i++)
+            {
+                float x = float.Parse(points[i * 3]) / 100 - 7;
+                float y = float.Parse(points[i * 3 + 1]) / 100;
+                float z = float.Parse(points[i * 3 + 2]) / 100;
+
+                HandPoints[i].transform.localPosition = new Vector3(x, y, z);
+            }
         }
     }
 }
