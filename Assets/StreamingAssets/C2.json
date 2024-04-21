@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "1",
+    "WordName": "delegation",
+    "WordType": "Noun",
+    "EnglishDescription": "A group of delegates",
+    "VietMeaning": "Đoàn đại biểu",
+    "VietDescription": "Một nhóm đại biểu",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/delegation"
+  },
+  {
+    "Id": "2",
+    "WordName": "mitigate",
+    "WordType": "Verb",
+    "EnglishDescription": "To make something less harmful, unpleasant, or bad",
+    "VietMeaning": "Bớt tính nghiêm trọng",
+    "VietDescription": "Để làm một cái gì đó ít có hại, khó chịu, hoặc xấu",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/mitigate"
+  },
+  {
+    "Id": "3",
+    "WordName": "inheritance",
+    "WordType": "Verb",
+    "EnglishDescription": "Money or objects that someone gives you when they die",
+    "VietMeaning": "Tài sản thừa kế",
+    "VietDescription": "Tiền hoặc đồ vật mà ai đó đưa cho bạn khi họ chết",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/inheritance"
+  },
+  {
+    "Id": "4",
+    "WordName": "attorney general",
+    "WordType": "Noun",
+    "EnglishDescription": "The top legal officer in some countries, whose job is to provide legal advice to the government and to represent the government",
+    "VietMeaning": "Thanh tra chính phủ",
+    "VietDescription": "Quan chức pháp lý hàng đầu ở một số quốc gia, có nhiệm vụ cung cấp tư vấn pháp lý cho chính phủ và đại diện cho chính phủ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/attorney-general?q=Attorney+general"
+  },
+  {
+    "Id": "5",
+    "WordName": "remuneration",
+    "WordType": "Noun",
+    "EnglishDescription": "Payment for work or services:",
+    "VietMeaning": "Tiền công",
+    "VietDescription": "Thanh toán cho công việc hoặc dịch vụ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/remuneration?q=remuneration+"
+  }
+]

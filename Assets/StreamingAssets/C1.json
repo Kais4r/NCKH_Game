@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "1",
+    "WordName": "abolish",
+    "WordType": "Verb",
+    "EnglishDescription": "To put an end to something, such as an organization, rule, or custom",
+    "VietMeaning": "Thủ tiêu",
+    "VietDescription": "Chấm dứt một cái gì đó, chẳng hạn như một tổ chức, quy tắc hoặc phong tục",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/abolish"
+  },
+  {
+    "Id": "2",
+    "WordName": "acute",
+    "WordType": "Adjective",
+    "EnglishDescription": "If a bad situation is acute, it causes severe problems or damage",
+    "VietMeaning": "Nghiêm trọng",
+    "VietDescription": "Nếu một tình huống xấu nghiêm trọng, nó sẽ gây ra những vấn đề hoặc thiệt hại nghiêm trọng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/acute"
+  },
+  {
+    "Id": "3",
+    "WordName": "yield",
+    "WordType": "Verb",
+    "EnglishDescription": "To supply or produce something positive such as a profit, an amount of food or information",
+    "VietMeaning": "Sản lượng",
+    "VietDescription": "Cung cấp hoặc sản xuất một cái gì đó tích cực như lợi nhuận, một lượng thực phẩm hoặc thông tin",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/yield"
+  },
+  {
+    "Id": "4",
+    "WordName": "widow",
+    "WordType": "Noun",
+    "EnglishDescription": "A woman whose husband has died and who has not married again",
+    "VietMeaning": "Góa phụ",
+    "VietDescription": "Người phụ nữ có chồng đã chết và chưa kết hôn lần nữa",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/widow"
+  },
+  {
+    "Id": "5",
+    "WordName": "corruption",
+    "WordType": "Noun",
+    "EnglishDescription": "Illegal, bad, or dishonest behaviour, especially by people in positions of power",
+    "VietMeaning": "Sự tham nhũng",
+    "VietDescription": "Hành vi bất hợp pháp, xấu hoặc không trung thực, đặc biệt là của những người có quyền lực",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/corruption"
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "Id": "1",
+    "WordName": "article",
+    "WordType": "Noun",
+    "EnglishDescription": "A piece of writing on a particular subject in a newspaper or magazine, or on the internet",
+    "VietMeaning": "Bài báo",
+    "VietDescription": "Một bài viết về một chủ đề cụ thể trên một tờ báo hoặc tạp chí hoặc trên internet",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/article"
+  },
+  {
+    "Id": "2",
+    "WordName": "apartment",
+    "WordType": "Noun",
+    "EnglishDescription": "A set of rooms for living in, especially on one floor of a building",
+    "VietMeaning": "Căn hộ",
+    "VietDescription": "Một tập hợp các phòng để ở, đặc biệt là trên một tầng của tòa nhà",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/apartment"
+  },
+  {
+    "Id": "3",
+    "WordName": "below",
+    "WordType": "Adverb",
+    "EnglishDescription": "In a lower position",
+    "VietMeaning": "Bên dưới",
+    "VietDescription": "Ở vị trí thấp hơn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/below"
+  },
+  {
+    "Id": "4",
+    "WordName": "bottle",
+    "WordType": "Noun",
+    "EnglishDescription": "A container for liquids, usually made of glass or plastic, with a narrow neck",
+    "VietMeaning": "Chai lọ",
+    "VietDescription": "Vật đựng chất lỏng, thường làm bằng thủy tinh hoặc nhựa, có cổ hẹp",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/bottle"
+  },
+
+  {
+    "Id": "5",
+    "WordName": "across",
+    "WordType": "Adverb",
+    "EnglishDescription": "From one side to the other of something with clear limits",
+    "VietMeaning": "Ngang qua",
+    "VietDescription": "Từ bên này sang bên kia của một cái gì đó có giới hạn rõ ràng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/across"
+  }
+]

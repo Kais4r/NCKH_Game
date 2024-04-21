@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "1",
+    "WordName": "fiction",
+    "WordType": "Noun",
+    "EnglishDescription": "The type of book or story that is written about imaginary characters and events and not based on real people and facts",
+    "VietMeaning": "Tiểu thuyết",
+    "VietDescription": "Loại sách hoặc câu chuyện được viết về các nhân vật và sự kiện tưởng tượng và không dựa trên người và sự kiện có thật",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/fiction"
+  },
+  {
+    "Id": "2",
+    "WordName": "ability",
+    "WordType": "Noun",
+    "EnglishDescription": "The physical or mental power or skill needed to do something",
+    "VietMeaning": "Khả năng",
+    "VietDescription": "Sức mạnh thể chất hoặc tinh thần hoặc kỹ năng cần thiết để làm một cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/ability"
+  },
+  {
+    "Id": "3",
+    "WordName": "accept",
+    "WordType": "Verb",
+    "EnglishDescription": "To agree to take something",
+    "VietMeaning": "Chấp nhận",
+    "VietDescription": "Đồng ý nhận cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/accept"
+  },
+  {
+    "Id": "4",
+    "WordName": "biscuit",
+    "WordType": "Noun",
+    "EnglishDescription": "A small, flat cake that is dry and usually sweet",
+    "VietMeaning": "Bánh quy",
+    "VietDescription": "Một chiếc bánh nhỏ, phẳng, khô và thường ngọt",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/biscuit"
+  },
+  {
+    "Id": "5",
+    "WordName": "carpet",
+    "WordType": "Noun",
+    "EnglishDescription": "(A shaped piece of) thick material used for covering floors",
+    "VietMeaning": "Tấm thảm",
+    "VietDescription": "(Một mảnh có hình dạng) vật liệu dày dùng để trải sàn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/carpet"
+  }
+]

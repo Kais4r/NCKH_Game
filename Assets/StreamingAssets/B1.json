@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "1",
+    "WordName": "absolutely",
+    "WordType": "Adverb",
+    "EnglishDescription": "Used for adding force to a strong adjective that is not usually used with very or to a verb expressing strong emotion",
+    "VietMeaning": "Tuyệt đối",
+    "VietDescription": "Dùng để tăng thêm sức mạnh cho một tính từ mạnh thường không được dùng với tất cả hoặc với một động từ thể hiện cảm xúc mạnh mẽ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/absolutely"
+  },
+  {
+    "Id": "2",
+    "WordName": "alarm",
+    "WordType": "Noun",
+    "EnglishDescription": "A warning of danger, usually a loud noise or flashing light",
+    "VietMeaning": "Báo động",
+    "VietDescription": "Cảnh báo nguy hiểm, thường là tiếng động lớn hoặc đèn nhấp nháy",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/alarm"
+  },
+  {
+    "Id": "3",
+    "WordName": "calm",
+    "WordType": "Adjective",
+    "EnglishDescription": "Peaceful, quiet, and without worry",
+    "VietMeaning": "Bình tĩnh",
+    "VietDescription": "Bình yên, tĩnh lặng và không lo lắng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/calm"
+  },
+  {
+    "Id": "4",
+    "WordName": "ceremony",
+    "WordType": "Noun",
+    "EnglishDescription": "(A set of) formal acts, often fixed and traditional, performed on important social or religious occasions",
+    "VietMeaning": "Buổi lễ",
+    "VietDescription": "(Một tập hợp) các hành vi trang trọng, thường cố định và truyền thống, được thực hiện vào các dịp xã hội hoặc tôn giáo quan trọng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/ceremony"
+  },
+  {
+    "Id": "5",
+    "WordName": "diagram",
+    "WordType": "Noun",
+    "EnglishDescription": "A simple plan that represents a machine, system, or idea, etc., often drawn to explain how it works",
+    "VietMeaning": "Biểu đồ",
+    "VietDescription": "Một kế hoạch đơn giản thể hiện một cỗ máy, hệ thống hoặc ý tưởng, v.v., thường được vẽ ra để giải thích cách thức hoạt động của nó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/diagram"
+  }
+]

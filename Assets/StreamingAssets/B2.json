@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "1",
+    "WordName": "engage",
+    "WordType": "Verb",
+    "EnglishDescription": "To interest someone in something and keep them thinking about it",
+    "VietMeaning": "Thu hút",
+    "VietDescription": "Làm ai đó quan tâm đến điều gì đó và khiến họ nghĩ về điều đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/engage"
+  },
+  {
+    "Id": "2",
+    "WordName": "abandon",
+    "WordType": "Verb",
+    "EnglishDescription": "To leave a place, thing, or person, usually for ever",
+    "VietMeaning": "Bỏ rơi",
+    "VietDescription": "Rời bỏ một địa điểm, đồ vật hoặc người, thường là mãi mãi",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/abandon"
+  },
+  {
+    "Id": "3",
+    "WordName": "command",
+    "WordType": "Noun",
+    "EnglishDescription": "An order, especially one given by a soldier",
+    "VietMeaning": "Mệnh lệnh",
+    "VietDescription": "Một mệnh lệnh, đặc biệt là mệnh lệnh của một người lính",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/command"
+  },
+  {
+    "Id": "4",
+    "WordName": "comfort",
+    "WordType": "Noun",
+    "EnglishDescription": "A pleasant feeling of being relaxed and free from pain",
+    "VietMeaning": "Sự an nhàn",
+    "VietDescription": "Một cảm giác dễ chịu khi được thư giãn và không còn đau đớn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/comfort"
+  },
+  {
+    "Id": "5",
+    "WordName": "master",
+    "WordType": "Noun",
+    "EnglishDescription": "A person who employs a servant or owns a slave",
+    "VietMeaning": "Chủ nhân",
+    "VietDescription": "Người thuê người hầu hoặc sở hữu nô lệ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/master"
+  }
+]
