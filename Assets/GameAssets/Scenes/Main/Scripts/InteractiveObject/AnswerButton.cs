@@ -1,18 +1,15 @@
-using System.Collections;
-using System.Collections.Generic;
+using TMPro;
 using UnityEngine;
 
 public class AnswerButton : MonoBehaviour
 {
-    [SerializeField] private MainGameManager MainGameManager;
-    [SerializeField] private string _answerButtonLetter;
+    [SerializeField] private MainGameManager _mainGameManager;
+    [SerializeField] private TextMeshProUGUI _buttonAnswerText;
     void OnTriggerEnter(Collider other)
     {
         if (other.gameObject.CompareTag("PlayerHand"))
         {
-            MainGameManager.ChooseAnswer(_answerButtonLetter);
+            _mainGameManager.ChooseAnswer(_buttonAnswerText.text);
         }
-
-        //Debug.Log("object enter");
     }
 }
