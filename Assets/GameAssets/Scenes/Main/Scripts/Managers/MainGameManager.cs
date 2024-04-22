@@ -62,13 +62,6 @@ public class MainGameManager : MonoBehaviour
         //Debug.Log(_englishWords[4].WordName);
     }
 
-    void Start()
-    {
-        _gameState = GameState.Start;
-        // Start generate question according to level and mode
-        GenerateQuestion();
-    }
-
     private void Update()
     {
         if (_gameState == GameState.GenerateQuestion)
@@ -77,9 +70,14 @@ public class MainGameManager : MonoBehaviour
         }
     }
 
+    public void StartingTheGame()
+    {
+        _gameState = GameState.Start;
+        // Start generate question according to level and mode
+        GenerateQuestion();
+    }
     public void GenerateQuestion()
     {
-        _gameState = GameState.GenerateQuestion;
         CreateTextOnlyQuiz();
         _gameState = GameState.PlayerChooseAnswer;
     }
