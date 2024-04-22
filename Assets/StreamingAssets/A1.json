@@ -44,5 +44,432 @@
     "VietMeaning": "Ngang qua",
     "VietDescription": "Từ bên này sang bên kia của một cái gì đó có giới hạn rõ ràng",
     "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/across"
+  },
+  
+  {
+    "Id": "6",
+    "WordName": "action",
+    "WordType": "Noun",
+    "EnglishDescription": "The process of doing something, especially when dealing with a problem or difficulty",
+    "VietMeaning": "Hành động",
+    "VietDescription": "Quá trình làm việc gì đó, đặc biệt là khi giải quyết một vấn đề hoặc khó khăn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/action"
+  },
+  {
+    "Id": "7",
+    "WordName": "actor",
+    "WordType": "Noun",
+    "EnglishDescription": "Someone who pretends to be someone else while performing in a film, play, or television or radio programme",
+    "VietMeaning": "Diễn viên",
+    "VietDescription": "Ai đó giả vờ là người khác trong khi biểu diễn trong một bộ phim, vở kịch, hoặc chương trình truyền hình hoặc đài phát thanh",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/actor"
+  },
+  {
+    "Id": "8",
+    "WordName": "area",
+    "WordType": "Noun",
+    "EnglishDescription": "A particular part of a place, piece of land, or country",
+    "VietMeaning": "Khu vực",
+    "VietDescription": "Một phần cụ thể của một địa điểm, mảnh đất, hoặc đất nước",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/area"
+  },
+  {
+    "Id": "9",
+    "WordName": "beach",
+    "WordType": "Noun",
+    "EnglishDescription": "An area of sand or small stones near the sea or another area of water such as a lake",
+    "VietMeaning": "Bãi biển",
+    "VietDescription": "Một vùng cát hoặc đá nhỏ gần biển hoặc một vùng nước khác như hồ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/beach"
+  },
+
+  {
+    "Id": "10",
+    "WordName": "become",
+    "WordType": "Verb",
+    "EnglishDescription": "To start to be",
+    "VietMeaning": "Trở nên",
+    "VietDescription": "Bắt đầu trở thành",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/become"
+  },
+  
+  {
+    "Id": "11",
+    "WordName": "busy",
+    "WordType": "Adjective",
+    "EnglishDescription": "If you are busy, you are working hard, or giving your attention to a particular thing",
+    "VietMeaning": "Bận rộn",
+    "VietDescription": "Nếu bạn bận rộn, bạn đang làm việc chăm chỉ hoặc đang tập trung vào một việc cụ thể",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/busy"
+  },
+  {
+    "Id": "12",
+    "WordName": "capital",
+    "WordType": "Noun",
+    "EnglishDescription": "A city that is the centre of government of a country or smaller political area",
+    "VietMeaning": "Thủ đô",
+    "VietDescription": "Một thành phố là trung tâm chính quyền của một quốc gia hoặc khu vực chính trị nhỏ hơn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/capital"
+  },
+  {
+    "Id": "13",
+    "WordName": "cent",
+    "WordType": "Noun",
+    "EnglishDescription": "A unit of money worth 0.01 of a dollar, or a coin with this value",
+    "VietMeaning": "Đồng xu",
+    "VietDescription": "Một đơn vị tiền trị giá 0,01 đô la hoặc một đồng xu có giá trị này",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/cent"
+  },
+  {
+    "Id": "14",
+    "WordName": "check",
+    "WordType": "Verb",
+    "EnglishDescription": "To make certain that something or someone is correct",
+    "VietMeaning": "Kiểm tra",
+    "VietDescription": "Để chắc chắn rằng một cái gì đó hoặc ai đó là chính xác",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/check"
+  },
+
+  {
+    "Id": "15",
+    "WordName": "clean",
+    "WordType": "Adjective",
+    "EnglishDescription": "Free from any dirty marks, pollution, bacteria, etc",
+    "VietMeaning": "Sạch sẽ",
+    "VietDescription": "Không có vết bẩn, ô nhiễm, vi khuẩn, v.v.",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/clean"
+  },
+   {
+    "Id": "16",
+    "WordName": "decide",
+    "WordType": "Verb",
+    "EnglishDescription": "To choose something, especially after thinking carefully about several possibilities",
+    "VietMeaning": "Quyết định",
+    "VietDescription": "Chọn cái gì đó, đặc biệt là sau khi suy nghĩ cẩn thận về một số khả năng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/decide"
+  },
+  {
+    "Id": "17",
+    "WordName": "detail",
+    "WordType": "Noun",
+    "EnglishDescription": "A single piece of information or fact about something",
+    "VietMeaning": "Chi tiết",
+    "VietDescription": "Một mẩu thông tin hoặc thực tế về một cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/detail"
+  },
+  {
+    "Id": "18",
+    "WordName": "diet",
+    "WordType": "Noun",
+    "EnglishDescription": "An eating plan in which someone eats less food, or only particular types of food, because they want to become thinner or for medical reasons",
+    "VietMeaning": "Chế độ ăn kiêng",
+    "VietDescription": "Một kế hoạch ăn uống trong đó ai đó ăn ít thức ăn hơn hoặc chỉ ăn một số loại thực phẩm cụ thể vì họ muốn trở nên gầy hơn hoặc vì lý do y tế",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/diet"
+  },
+  {
+    "Id": "19",
+    "WordName": "concert",
+    "WordType": "Noun",
+    "EnglishDescription": "A performance of music by one or more musicians or singers",
+    "VietMeaning": "Buổi hòa nhạc",
+    "VietDescription": "Buổi biểu diễn âm nhạc của một hoặc nhiều nhạc sĩ hoặc ca sĩ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/concert"
+  },
+
+  {
+    "Id": "20",
+    "WordName": "create",
+    "WordType": "Verb",
+    "EnglishDescription": "To make something new, or invent something",
+    "VietMeaning": "Tạo nên",
+    "VietDescription": "Để làm một cái gì đó mới, hoặc phát minh ra một cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/create"
+  },
+  
+  {
+    "Id": "21",
+    "WordName": "dish",
+    "WordType": "Noun",
+    "EnglishDescription": "A container, flatter than a bowl and sometimes with a lid, from which food can be served or which can be used for cooking",
+    "VietMeaning": "Cái đĩa",
+    "VietDescription": "Một vật chứa, dẹt hơn cái bát và đôi khi có nắp, dùng để đựng thức ăn hoặc dùng để nấu nướng.",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/dish"
+  },
+  {
+    "Id": "22",
+    "WordName": "garden",
+    "WordType": "Noun",
+    "EnglishDescription": "A piece of land next to and belonging to a house, where flowers and other plants are grown, and often containing an area of grass",
+    "VietMeaning": "Vườn",
+    "VietDescription": "Một mảnh đất bên cạnh và thuộc về một ngôi nhà, nơi trồng hoa và các loại cây khác và thường có diện tích cỏ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/garden"
+  },
+  {
+    "Id": "23",
+    "WordName": "grow",
+    "WordType": "Verb",
+    "EnglishDescription": "To increase in size or amount, or to become more advanced or developed",
+    "VietMeaning": "Phát triển",
+    "VietDescription": "Để tăng kích thước hoặc số lượng, hoặc trở nên cao cấp hơn hoặc phát triển hơn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/grow"
+  },
+  {
+    "Id": "24",
+    "WordName": "high",
+    "WordType": "Adjective",
+    "EnglishDescription": "Being a large distance from top to bottom or a long way above the ground, or having the stated distance from top to bottom",
+    "VietMeaning": "Cao",
+    "VietDescription": "Là một khoảng cách lớn từ trên xuống dưới hoặc cách mặt đất một quãng đường dài hoặc có khoảng cách đã nêu từ trên xuống dưới",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/high"
+  },
+
+  {
+    "Id": "25",
+    "WordName": "important",
+    "WordType": "Adjective",
+    "EnglishDescription": "Necessary or of great value",
+    "VietMeaning": "Quan trọng",
+    "VietDescription": "Cần thiết hoặc có giá trị lớn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/important"
+  },
+   {
+    "Id": "26",
+    "WordName": "island",
+    "WordType": "Noun",
+    "EnglishDescription": "A piece of land completely surrounded by water",
+    "VietMeaning": "Hòn đảo",
+    "VietDescription": "Một mảnh đất được bao quanh hoàn toàn bởi nước",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/island"
+  },
+  {
+    "Id": "27",
+    "WordName": "join",
+    "WordType": "Verb",
+    "EnglishDescription": "To connect or fasten things together",
+    "VietMeaning": "Tham gia",
+    "VietDescription": "Để kết nối hoặc buộc chặt mọi thứ lại với nhau",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/join"
+  },
+  {
+    "Id": "28",
+    "WordName": "keep",
+    "WordType": "Verb",
+    "EnglishDescription": "To have or continue to have in your possession",
+    "VietMeaning": "Giữ",
+    "VietDescription": "Có hoặc tiếp tục sở hữu của bạn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/keep"
+  },
+  {
+    "Id": "29",
+    "WordName": "laugh",
+    "WordType": "Verb",
+    "EnglishDescription": "To smile while making sounds with your voice that show you think something is funny or you are happy",
+    "VietMeaning": "Cười",
+    "VietDescription": "Mỉm cười trong khi tạo ra âm thanh bằng giọng nói cho thấy bạn nghĩ điều gì đó buồn cười hoặc bạn đang hạnh phúc",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/laugh"
+  },
+
+  {
+    "Id": "30",
+    "WordName": "library",
+    "WordType": "Noun",
+    "EnglishDescription": "A building, room, or organization that has a collection of books, documents, music, and sometimes things such as tools or artwork, for people to borrow, usually without payment",
+    "VietMeaning": "Thư viện",
+    "VietDescription": "Tòa nhà, phòng hoặc tổ chức có bộ sưu tập sách, tài liệu, âm nhạc và đôi khi những thứ như công cụ hoặc tác phẩm nghệ thuật để mọi người mượn, thường không phải trả tiền",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/library"
+  },
+  
+  {
+    "Id": "31",
+    "WordName": "like",
+    "WordType": "Verb",
+    "EnglishDescription": "To enjoy or approve of something or someone",
+    "VietMeaning": "Thích",
+    "VietDescription": "Để thưởng thức hoặc chấp nhận một cái gì đó hoặc ai đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/like"
+  },
+  {
+    "Id": "32",
+    "WordName": "hotel",
+    "WordType": "Noun",
+    "EnglishDescription": "A building where you pay to have a room to sleep in, and where you can sometimes eat meals",
+    "VietMeaning": "Khách sạn",
+    "VietDescription": "Một tòa nhà nơi bạn phải trả tiền để có một phòng để ngủ và nơi đôi khi bạn có thể dùng bữa",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/hotel"
+  },
+  {
+    "Id": "33",
+    "WordName": "ice",
+    "WordType": "Noun",
+    "EnglishDescription": "Water that has frozen and become solid, or pieces of this",
+    "VietMeaning": "Đá",
+    "VietDescription": "Nước đã đóng băng và trở nên rắn chắc, hoặc những mảnh chất này",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/ice"
+  },
+  {
+    "Id": "34",
+    "WordName": "vacation",
+    "WordType": "Noun",
+    "EnglishDescription": "A time when someone does not go to work or school but is free to do what they want, such as travel or relax",
+    "VietMeaning": "Kì nghỉ",
+    "VietDescription": "Thời điểm ai đó không đi làm hoặc đi học nhưng được tự do làm những gì họ muốn, chẳng hạn như đi du lịch hoặc thư giãn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/vacation"
+  },
+
+  {
+    "Id": "35",
+    "WordName": "type",
+    "WordType": "Noun",
+    "EnglishDescription": "A particular group of people or things that share similar characteristics and form a smaller division of a larger set",
+    "VietMeaning": "Kiểu",
+    "VietDescription": "Một nhóm người hoặc đồ vật cụ thể có chung đặc điểm và tạo thành một bộ phận nhỏ hơn của một tập hợp lớn hơn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/type"
+  },
+  
+  {
+    "Id": "36",
+    "WordName": "trip",
+    "WordType": "Noun",
+    "EnglishDescription": "A journey in which you go somewhere, usually for a short time, and come back again",
+    "VietMeaning": "Chuyến đi",
+    "VietDescription": "Một cuộc hành trình mà bạn đi đâu đó, thường là trong một thời gian ngắn và quay lại lần nữa",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/trip"
+  },
+  
+  {
+    "Id": "37",
+    "WordName": "topic",
+    "WordType": "Noun",
+    "EnglishDescription": "A subject that is discussed, written about, or studied",
+    "VietMeaning": "Đề tài",
+    "VietDescription": "Một chủ đề được thảo luận, viết về, hoặc nghiên cứu",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/topic"
+  },
+  
+  {
+    "Id": "38",
+    "WordName": "theatre",
+    "WordType": "Noun",
+    "EnglishDescription": "A building, room, or outside structure with rows of seats, each row usually higher than the one in front, from which people can watch a performance or other activity",
+    "VietMeaning": "Nhà hát",
+    "VietDescription": "Tòa nhà, căn phòng hoặc cấu trúc bên ngoài có hàng ghế, mỗi hàng thường cao hơn hàng phía trước, từ đó mọi người có thể xem buổi biểu diễn hoặc hoạt động khác",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/theatre"
+  },
+  
+  {
+    "Id": "39",
+    "WordName": "success",
+    "WordType": "Noun",
+    "EnglishDescription": "The achieving of the results wanted or hoped for",
+    "VietMeaning": "Thành công",
+    "VietDescription": "Việc đạt được kết quả mong muốn hoặc hy vọng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/success"
+  },
+
+  {
+    "Id": "40",
+    "WordName": "station",
+    "WordType": "Noun",
+    "EnglishDescription": "A building and the surrounding area where buses or trains stop for people to get on or off",
+    "VietMeaning": "Ga tàu",
+    "VietDescription": "Tòa nhà và khu vực xung quanh nơi xe buýt hoặc xe lửa dừng lại để mọi người lên hoặc xuống",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/station"
+  },
+  
+  {
+    "Id": "41",
+    "WordName": "space",
+    "WordType": "Noun",
+    "EnglishDescription": "An empty area that is available to be used",
+    "VietMeaning": "Không gian",
+    "VietDescription": "Một khu vực trống có sẵn để sử dụng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/space"
+  },
+  {
+    "Id": "42",
+    "WordName": "rich",
+    "WordType": "Adjective",
+    "EnglishDescription": "Having a lot of money or valuable possessions",
+    "VietMeaning": "Giàu có",
+    "VietDescription": "Có rất nhiều tiền hoặc tài sản có giá trị",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/rich"
+  },
+  {
+    "Id": "43",
+    "WordName": "practise",
+    "WordType": "Verb",
+    "EnglishDescription": "To do or play something regularly or repeatedly in order to become skilled at it",
+    "VietMeaning": "Luyện tập",
+    "VietDescription": "Làm hoặc chơi cái gì đó thường xuyên hoặc lặp đi lặp lại để trở nên thành thạo về nó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/practise"
+  },
+  {
+    "Id": "44",
+    "WordName": "lake",
+    "WordType": "Noun",
+    "EnglishDescription": "A large area of water surrounded by land and not connected to the sea except by rivers or streams",
+    "VietMeaning": "Hồ",
+    "VietDescription": "Một vùng nước rộng lớn được bao quanh bởi đất liền và không nối với biển ngoại trừ sông hoặc suối",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/lake"
+  },
+
+  {
+    "Id": "45",
+    "WordName": "pepper",
+    "WordType": "Adverb",
+    "EnglishDescription": "A grey or white powder produced by crushing dry peppercorns, used to give a spicy, hot taste to food",
+    "VietMeaning": "Hạt tiêu",
+    "VietDescription": "Một loại bột màu xám hoặc trắng được tạo ra bằng cách nghiền hạt tiêu khô, dùng để tạo vị cay, nóng cho thực phẩm",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/pepper"
+  },
+  
+  {
+    "Id": "46",
+    "WordName": "opinion",
+    "WordType": "Noun",
+    "EnglishDescription": "A thought or belief about something or someone",
+    "VietMeaning": "Ý kiến",
+    "VietDescription": "Một suy nghĩ hoặc niềm tin về một cái gì đó hoặc ai đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/opinion"
+  },
+  
+  {
+    "Id": "47",
+    "WordName": "news",
+    "WordType": "Noun",
+    "EnglishDescription": "Information or reports about recent events",
+    "VietMeaning": "Tin tức",
+    "VietDescription": "Thông tin hoặc báo cáo về các sự kiện gần đây",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/news"
+  },
+  
+  {
+    "Id": "48",
+    "WordName": "worker",
+    "WordType": "Noun",
+    "EnglishDescription": "Someone who works in a particular job or in a particular way",
+    "VietMeaning": "Công nhân",
+    "VietDescription": "Một người làm việc trong một công việc cụ thể hoặc theo một cách cụ thể",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/worker"
+  },
+  
+  {
+    "Id": "49",
+    "WordName": "wine",
+    "WordType": "Noun",
+    "EnglishDescription": "An alcoholic drink that is usually made from grapes, but can also be made from other fruits or flowers. It is made by fermenting the fruit with water and sugar",
+    "VietMeaning": "Rượu",
+    "VietDescription": "Một loại đồ uống có cồn thường được làm từ nho, nhưng cũng có thể được làm từ các loại trái cây hoặc hoa khác. Nó được làm bằng cách lên men trái cây với nước và đường",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/wine"
+  },
+
+  {
+    "Id": "50",
+    "WordName": "weather",
+    "WordType": "Noun",
+    "EnglishDescription": "The conditions in the air above the earth such as wind, rain, or temperature, especially at a particular time over a particular area",
+    "VietMeaning": "Thời tiết",
+    "VietDescription": "Các điều kiện trong không khí trên trái đất như gió, mưa, hoặc nhiệt độ, đặc biệt là tại một thời điểm cụ thể trên một khu vực cụ thể",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/weather"
   }
 ]

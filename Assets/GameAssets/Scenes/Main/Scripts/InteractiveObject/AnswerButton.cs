@@ -10,6 +10,7 @@ public class AnswerButton : MonoBehaviour
         if (other.gameObject.CompareTag("PlayerHand"))
         {
             _mainGameManager.ChooseAnswer(_buttonAnswerText.text);
+            
         }
     }
 }

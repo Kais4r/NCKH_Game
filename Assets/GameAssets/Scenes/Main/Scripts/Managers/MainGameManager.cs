@@ -3,12 +3,15 @@ using UnityEngine;
 using System;
 using System.Linq;
 using Random = UnityEngine.Random;
+using System.Collections;
+using UnityEditor.ShaderGraph.Serialization;
 
 enum GameState
 {
     Start,
     GenerateQuestion,
     PlayerChooseAnswer,
+    ProcessAnswer,
 }
 
 public class MainGameManager : MonoBehaviour
@@ -32,8 +35,11 @@ public class MainGameManager : MonoBehaviour
     private string _CEFRLevel; // this will be taken from singleton
     [SerializeField] private ListRange _levelWordRange;
     [SerializeField] private GameState _gameState;
+    private int _score = 0;
+    public bool answerResult;
 
     // UI Related
+    [SerializeField] private List<GameObject> _quizTypePanels;
 
     private void Awake()
     {
@@ -74,8 +80,13 @@ public class MainGameManager : MonoBehaviour
     public void GenerateQuestion()
     {
         _gameState = GameState.GenerateQuestion;
+        CreateTextOnlyQuiz();
+        _gameState = GameState.PlayerChooseAnswer;
+    }
 
-        // TextOnlyQuiz
+    public void CreateTextOnlyQuiz()
+    {
+        _quizTypePanels[0].SetActive(true);
         if (_wordToGuessList.Count == 0)
         {
             _mainUIManager.quizContentText.text = "Không còn từ để đoán";
@@ -110,19 +121,39 @@ public class MainGameManager : MonoBehaviour
             for (int i = 0; i < 4; i++)
             {
                 _mainUIManager.answerButtonsContent[i].text = _answerButtonContent[i];
-            }
-
-            _gameState = GameState.PlayerChooseAnswer;
+            } 
         }
     }
 
-
     public void ChooseAnswer(string answer)
     {
-        if(answer == correctAnswer)
+        if (answer == correctAnswer && _gameState == GameState.PlayerChooseAnswer)
         {
-            Debug.Log("Correct");
-            _gameState = GameState.GenerateQuestion;
+            StartCoroutine(ProcessAnswer(true));
         }
+        else if (answer != correctAnswer && _gameState == GameState.PlayerChooseAnswer)
+        {
+            StartCoroutine(ProcessAnswer(false));
+        }
+    }
+    IEnumerator ProcessAnswer(bool result)
+    {
+        _gameState = GameState.ProcessAnswer;
+        if (result == true)
+        {
+            _score += 1;
+            _mainUIManager.playerScore.text = "Diem so: " + _score.ToString();
+            answerResult = true;
+            //change color of 2d button to Green
+
+        }
+        else
+        {
+            answerResult = false;
+            //change color of 2d button to Red
+        }
+
+        yield return new WaitForSeconds(1f);
+        _gameState = GameState.GenerateQuestion;
     }
 }
