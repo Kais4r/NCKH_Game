@@ -9,8 +9,27 @@ public class AnswerButton : MonoBehaviour
     {
         if (other.gameObject.CompareTag("PlayerHand"))
         {
-            _mainGameManager.ChooseAnswer(_buttonAnswerText.text);
-            
+            if (_mainGameManager.gameState == GameState.ProcessAnswer)
+            {
+
+            }
+            else
+            {
+                _mainGameManager.ChooseAnswer(_buttonAnswerText.text);
+                if (_mainGameManager.answerResult == true)
+                {
+                    //Doi mau xanh
+                    //StartCourutine
+                }
+                else
+                {
+                    //Doi mau do
+                    //StartCourutine
+                }
+            }
         }
+        // doi mau xanh, do
+        // Yield wait return 1f;
+        // tra ve mau trang
     }
 }

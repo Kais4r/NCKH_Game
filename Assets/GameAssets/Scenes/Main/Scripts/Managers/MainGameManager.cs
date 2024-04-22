@@ -4,9 +4,8 @@ using System;
 using System.Linq;
 using Random = UnityEngine.Random;
 using System.Collections;
-using UnityEditor.ShaderGraph.Serialization;
 
-enum GameState
+public enum GameState
 {
     Start,
     GenerateQuestion,
@@ -34,7 +33,7 @@ public class MainGameManager : MonoBehaviour
     // Game management
     private string _CEFRLevel; // this will be taken from singleton
     [SerializeField] private ListRange _levelWordRange;
-    [SerializeField] private GameState _gameState;
+    public GameState gameState;
     private int _score = 0;
     public bool answerResult;
 
@@ -62,9 +61,16 @@ public class MainGameManager : MonoBehaviour
         //Debug.Log(_englishWords[4].WordName);
     }
 
+    private void Start()
+    {
+        gameState = GameState.Start;
+        // Start generate question according to level and mode
+        GenerateQuestion();
+    }
+
     private void Update()
     {
-        if (_gameState == GameState.GenerateQuestion)
+        if (gameState == GameState.GenerateQuestion)
         {
             GenerateQuestion();
         }
@@ -72,14 +78,14 @@ public class MainGameManager : MonoBehaviour
 
     public void StartingTheGame()
     {
-        _gameState = GameState.Start;
+        gameState = GameState.Start;
         // Start generate question according to level and mode
         GenerateQuestion();
     }
     public void GenerateQuestion()
     {
         CreateTextOnlyQuiz();
-        _gameState = GameState.PlayerChooseAnswer;
+        gameState = GameState.PlayerChooseAnswer;
     }
 
     public void CreateTextOnlyQuiz()
@@ -125,18 +131,18 @@ public class MainGameManager : MonoBehaviour
 
     public void ChooseAnswer(string answer)
     {
-        if (answer == correctAnswer && _gameState == GameState.PlayerChooseAnswer)
+        if (answer == correctAnswer && gameState == GameState.PlayerChooseAnswer)
         {
             StartCoroutine(ProcessAnswer(true));
         }
-        else if (answer != correctAnswer && _gameState == GameState.PlayerChooseAnswer)
+        else if (answer != correctAnswer && gameState == GameState.PlayerChooseAnswer)
         {
             StartCoroutine(ProcessAnswer(false));
         }
     }
     IEnumerator ProcessAnswer(bool result)
     {
-        _gameState = GameState.ProcessAnswer;
+        gameState = GameState.ProcessAnswer;
         if (result == true)
         {
             _score += 1;
@@ -152,6 +158,6 @@ public class MainGameManager : MonoBehaviour
         }
 
         yield return new WaitForSeconds(1f);
-        _gameState = GameState.GenerateQuestion;
+        gameState = GameState.GenerateQuestion;
     }
 }
