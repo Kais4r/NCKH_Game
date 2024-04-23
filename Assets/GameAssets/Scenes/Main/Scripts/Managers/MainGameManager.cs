@@ -30,6 +30,17 @@ public class MainGameManager : MonoBehaviour
     private string correctAnswer;
 
 
+    // Audio related
+    [SerializeField]
+    private AudioSource audioSource;
+
+    [SerializeField]
+    private AudioClip correctSound;
+
+    [SerializeField]
+    private AudioClip incorrectSound;
+
+
     // Game management
     private string _CEFRLevel; // this will be taken from singleton
     [SerializeField] private ListRange _levelWordRange;
@@ -134,11 +145,13 @@ public class MainGameManager : MonoBehaviour
         if (answer == correctAnswer && gameState == GameState.PlayerChooseAnswer)
         {
             //play sound correct
+            AudioManager.Instance.PlaySound(audioSource, correctSound);
             StartCoroutine(ProcessAnswer(true));
         }
         else if (answer != correctAnswer && gameState == GameState.PlayerChooseAnswer)
         {
             //play sound wrong
+            AudioManager.Instance.PlaySound(audioSource, incorrectSound);
             StartCoroutine(ProcessAnswer(false));
         }
     }

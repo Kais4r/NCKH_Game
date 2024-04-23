@@ -55,54 +55,69 @@ public class AudioManager : MonoBehaviour
 
     private void Update()
     {
-        UpdateVolumeSlider();
+        if (audioMixer != null)
+        {
+            UpdateVolumeSlider();
+        }
     }
 
     void UpdateVolumeSlider()
     {
-        float masterVolume;
-        bool masterResult = audioMixer.GetFloat("MasterVolume", out masterVolume);
-
-        float musicVolume;
-        bool musicResult = audioMixer.GetFloat("MusicVolume", out musicVolume);
-
-        float effectVolume;
-        bool effectResult = audioMixer.GetFloat("EffectVolume", out effectVolume);
-
-        if(masterResult && masterSlider != null)
+        if (audioMixer != null)
         {
-            masterSlider.value = masterVolume;
-        }
+            float masterVolume;
+            bool masterResult = audioMixer.GetFloat("MasterVolume", out masterVolume);
 
-        if (musicResult && musicSlider != null)
-        {
-            musicSlider.value = musicVolume;
-        }
+            float musicVolume;
+            bool musicResult = audioMixer.GetFloat("MusicVolume", out musicVolume);
 
-        if (effectResult && effectSlider != null)
-        {
-            effectSlider.value = effectVolume;
+            float effectVolume;
+            bool effectResult = audioMixer.GetFloat("EffectVolume", out effectVolume);
+
+            if (masterResult && masterSlider != null)
+            {
+                masterSlider.value = masterVolume;
+            }
+
+            if (musicResult && musicSlider != null)
+            {
+                musicSlider.value = musicVolume;
+            }
+
+            if (effectResult && effectSlider != null)
+            {
+                effectSlider.value = effectVolume;
+            }
         }
     }
 
     public void SetMasterVolume(float volume)
     {
-        audioMixer.SetFloat("MasterVolume", volume);
+        if(audioMixer  != null)
+        {
+            audioMixer.SetFloat("MasterVolume", volume);
+        }
     }
 
     public void SetMusicVolume(float volume)
     {
-        if(isMusicMuted == false)
+        if(audioMixer != null)
         {
-            audioMixer.SetFloat("MusicVolume", volume);
+            if (isMusicMuted == false)
+            {
+                audioMixer.SetFloat("MusicVolume", volume);
+            }
         }
     }
 
     public void SetEffectVolume(float volume)
     {
-        if(isEffectMuted == false)
+        if (audioMixer != null)
         {
-            audioMixer.SetFloat("EffectVolume", volume);
+            if (isEffectMuted == false)
+            {
+                audioMixer.SetFloat("EffectVolume", volume);
+            }
         }
     }
 
@@ -114,29 +129,35 @@ public class AudioManager : MonoBehaviour
 
     public void ToggleMusic(bool value)
     {
-        if(value)
+        if(audioMixer != null)
         {
-            audioMixer.SetFloat("MusicVolume", -80);
-            isMusicMuted = true;
-        }
-        else
-        {
-            audioMixer.SetFloat("MusicVolume", 0);
-            isMusicMuted = false;
+            if (value)
+            {
+                audioMixer.SetFloat("MusicVolume", -80);
+                isMusicMuted = true;
+            }
+            else
+            {
+                audioMixer.SetFloat("MusicVolume", 0);
+                isMusicMuted = false;
+            }
         }
     }
 
     public void ToggleEffect(bool value)
     {
-        if (value)
+        if (audioMixer != null)
         {
-            audioMixer.SetFloat("EffectVolume", -80);
-            isEffectMuted = true;
-        }
-        else
-        {
-            audioMixer.SetFloat("EffectVolume", 0);
-            isEffectMuted = false;
+            if (value)
+            {
+                audioMixer.SetFloat("EffectVolume", -80);
+                isEffectMuted = true;
+            }
+            else
+            {
+                audioMixer.SetFloat("EffectVolume", 0);
+                isEffectMuted = false;
+            }
         }
     }
 }
