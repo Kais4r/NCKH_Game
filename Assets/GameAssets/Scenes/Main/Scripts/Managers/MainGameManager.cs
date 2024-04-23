@@ -133,10 +133,12 @@ public class MainGameManager : MonoBehaviour
     {
         if (answer == correctAnswer && gameState == GameState.PlayerChooseAnswer)
         {
+            //play sound correct
             StartCoroutine(ProcessAnswer(true));
         }
         else if (answer != correctAnswer && gameState == GameState.PlayerChooseAnswer)
         {
+            //play sound wrong
             StartCoroutine(ProcessAnswer(false));
         }
     }
