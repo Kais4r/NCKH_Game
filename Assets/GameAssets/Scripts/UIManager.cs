@@ -17,7 +17,7 @@ public class UIManager : MonoBehaviour
 
     public void OnStartButton()
     {
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("LevelSelection");
     }
 
     public void OnToggleSettingsPanel()
@@ -36,6 +36,12 @@ public class UIManager : MonoBehaviour
         {
             aboutPanel.SetActive(!aboutPanel.activeSelf);
         }
+    }
+
+    public void OnBackToMenuButton()
+    {
+        AudioManager.Instance.PlaySound(audioSource, clickSound);
+        SceneManager.LoadScene("MainMenu");
     }
 
     public void OnQuitButton()
