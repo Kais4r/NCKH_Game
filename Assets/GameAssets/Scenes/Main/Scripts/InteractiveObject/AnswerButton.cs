@@ -11,13 +11,14 @@ public class AnswerButton : MonoBehaviour
     [SerializeField] private TextMeshProUGUI _buttonAnswerText;
     Vector3 initialPos;
     Rigidbody rb;
-  
+    Renderer material;
 
     public List<Material> danhSachMau;
     private void Start()
     {
         initialPos = transform.position;
         rb = GetComponent<Rigidbody>();
+        material = rb.GetComponent<Renderer>();
     }
 
     
@@ -41,12 +42,13 @@ public class AnswerButton : MonoBehaviour
                 _mainGameManager.ChooseAnswer(_buttonAnswerText.text);
                 if (_mainGameManager.answerResult == true)
                 {
-                   
+                    material.material.color = Color.green;
+                    StartCoroutine(enumerator(1f));
                 }
                 else
                 {
-                    //Doi mau do
-                    //StartCourutine
+                    material.material.color = Color.red;
+                    StartCoroutine(enumerator(1f));
                 }
             }
         }
@@ -58,6 +60,7 @@ public class AnswerButton : MonoBehaviour
             yield return new WaitForSeconds(t);
             rb.velocity = Vector3.zero;
             ResetPos();
+            material.material.color = Color.white;
         }
     }
     private void ResetPos()
