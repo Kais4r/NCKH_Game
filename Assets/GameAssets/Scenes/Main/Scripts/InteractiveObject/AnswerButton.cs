@@ -21,9 +21,6 @@ public class AnswerButton : MonoBehaviour
         material = rb.GetComponent<Renderer>();
     }
 
-    
-
-
     void OnTriggerEnter(Collider other)
     {
 

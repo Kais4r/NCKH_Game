@@ -5,6 +5,7 @@ using System.Collections.Generic;
 public class MainUIManager : MonoBehaviour
 {
     public TextMeshProUGUI playerScore;
+    public TextMeshProUGUI playerHP;
 
     // TextOnlyQuiz
     public TextMeshProUGUI instructionText;

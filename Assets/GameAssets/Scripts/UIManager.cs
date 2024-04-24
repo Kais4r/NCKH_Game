@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -14,6 +15,22 @@ public class UIManager : MonoBehaviour
     [SerializeField]
     private AudioSource audioSource;
 
+    public void LoadNewScene(string sceneName)
+    {
+        SceneManager.LoadScene(sceneName);
+    }
+
+    public void GaneObjectSwitchButton(GameObject uiObject)
+    {
+        if(uiObject.gameObject.activeSelf == false)
+        {
+            uiObject.gameObject.SetActive(true);
+        }
+        else
+        {
+            uiObject.gameObject.SetActive(false);
+        }
+    }
 
     public void OnStartButton()
     {
@@ -25,7 +42,7 @@ public class UIManager : MonoBehaviour
         AudioManager.Instance.PlaySound(audioSource, clickSound);
         if(settingsPanel != null)
         {
-            settingsPanel.SetActive(!settingsPanel.activeSelf);
+            settingsPanel.SetActive(!settingsPanel.activeSelf); 
         }
     }
 

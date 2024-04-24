@@ -4,6 +4,8 @@ using System;
 using System.Linq;
 using Random = UnityEngine.Random;
 using System.Collections;
+using UnityEditor.SceneManagement;
+using UnityEngine.SceneManagement;
 
 public enum GameState
 {
@@ -46,6 +48,7 @@ public class MainGameManager : MonoBehaviour
     [SerializeField] private ListRange _levelWordRange;
     public GameState gameState;
     private int _score = 0;
+    private int _playerHP = 2;
     public bool answerResult;
 
     // UI Related
@@ -54,7 +57,15 @@ public class MainGameManager : MonoBehaviour
     private void Awake()
     {
         // Take in level and mode
-        _CEFRLevel = "A1";
+        if(GameManagerSingleton.instance != null)
+        {
+            _CEFRLevel = GameManagerSingleton.instance.cefrLevel;
+        }
+        else
+        {
+            // Assign level
+            _CEFRLevel = "A1";
+        }
 
         // Load data from DataFunctions
         string data = _dataFunctions.ReadJsonData(_CEFRLevel + ".json");
@@ -63,6 +74,9 @@ public class MainGameManager : MonoBehaviour
         _wordToGuessList = _thisLevelEnglishWords.OrderBy(i => Guid.NewGuid()).ToList();
         _guessedWords = new List<EnglishWord>();
         _answerButtonContent = new List<String>();
+
+        // Setting up UI
+        _mainUIManager.playerHP.text = _playerHP.ToString();
 
 
         /*foreach (EnglishWord word in _thisLevelEnglishWords)
@@ -152,6 +166,13 @@ public class MainGameManager : MonoBehaviour
         {
             //play sound wrong
             AudioManager.Instance.PlaySound(audioSource, incorrectSound);
+
+            _playerHP--;
+            if(_playerHP <= 0)
+            {
+                SceneManager.LoadScene("LevelSelection");
+            }
+            _mainUIManager.playerHP.text = _playerHP.ToString();
             StartCoroutine(ProcessAnswer(false));
         }
     }

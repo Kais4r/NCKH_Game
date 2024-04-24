@@ -43,5 +43,432 @@
     "VietMeaning": "Tấm thảm",
     "VietDescription": "(Một mảnh có hình dạng) vật liệu dày dùng để trải sàn",
     "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/carpet"
+  },
+  
+  {
+    "Id": "6",
+    "WordName": "alone",
+    "WordType": "Adjective ",
+    "EnglishDescription": "Without other people",
+    "VietMeaning": "Một mình",
+    "VietDescription": "Không có người khác",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/alone"
+  },
+  {
+    "Id": "7",
+    "WordName": "ancient",
+    "WordType": "Adjective",
+    "EnglishDescription": "Of or from a long time ago, having lasted for a very long time",
+    "VietMeaning": "Cổ đại",
+    "VietDescription": "Của hoặc từ một thời gian dài trước đây, đã kéo dài trong một thời gian rất dài",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/ancient"
+  },
+  {
+    "Id": "8",
+    "WordName": "brilliant",
+    "WordType": "Adjective",
+    "EnglishDescription": "Extremely intelligent or skilled",
+    "VietMeaning": "Xuất sắc",
+    "VietDescription": "Cực kỳ thông minh hoặc có kỹ năng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/brilliant"
+  },
+  {
+    "Id": "9",
+    "WordName": "burn",
+    "WordType": "Verb",
+    "EnglishDescription": "To be hurt, damaged, or destroyed by fire or extreme heat, or to cause this to happen",
+    "VietMeaning": "Đốt cháy",
+    "VietDescription": "Bị tổn thương, hư hỏng hoặc bị phá hủy bởi lửa hoặc nhiệt độ quá cao hoặc khiến điều này xảy ra",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/burn"
+  },
+
+  {
+    "Id": "10",
+    "WordName": "brain",
+    "WordType": "Noun",
+    "EnglishDescription": "The organ inside the head that controls thought, memory, feelings, and activity",
+    "VietMeaning": "Bộ óc",
+    "VietDescription": "Cơ quan bên trong đầu kiểm soát suy nghĩ, trí nhớ, cảm xúc và hoạt động",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/brain"
+  },
+  
+  {
+    "Id": "11",
+    "WordName": "celebrate",
+    "WordType": "Verb",
+    "EnglishDescription": "To take part in special enjoyable activities in order to show that a particular occasion is important",
+    "VietMeaning": "Kỉ niệm",
+    "VietDescription": "Tham gia vào các hoạt động thú vị đặc biệt để cho thấy rằng một dịp đặc biệt là quan trọng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/celebrate"
+  },
+  {
+    "Id": "12",
+    "WordName": "deal",
+    "WordType": "Noun",
+    "EnglishDescription": "An agreement or an arrangement, especially in business",
+    "VietMeaning": "Thỏa thuận",
+    "VietDescription": "Một thỏa thuận hoặc một sự sắp xếp, đặc biệt là trong kinh doanh",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/deal"
+  },
+  {
+    "Id": "13",
+    "WordName": "detective",
+    "WordType": "Noun",
+    "EnglishDescription": "Someone whose job is to discover information about crimes and find out who is responsible for them",
+    "VietMeaning": "Thám tử",
+    "VietDescription": "Ai đó có công việc là khám phá thông tin về tội phạm và tìm ra người chịu trách nhiệm cho họ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/detective"
+  },
+  {
+    "Id": "14",
+    "WordName": "distance",
+    "WordType": "Noun",
+    "EnglishDescription": "The amount of space between two places",
+    "VietMeaning": "Khoảng cách",
+    "VietDescription": "Khoảng cách giữa hai nơi",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/distance"
+  },
+
+  {
+    "Id": "15",
+    "WordName": "drug",
+    "WordType": "Noun",
+    "EnglishDescription": "Any natural or artificially made chemical that is used as a medicine",
+    "VietMeaning": "Thuốc",
+    "VietDescription": "Bất kỳ hóa chất tự nhiên hoặc nhân tạo nào được sử dụng làm thuốc",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/drug"
+  },
+   {
+    "Id": "16",
+    "WordName": "expert",
+    "WordType": "Noun",
+    "EnglishDescription": "A person with a high level of knowledge or skill relating to a particular subject or activity",
+    "VietMeaning": "Chuyên gia",
+    "VietDescription": "Một người có trình độ kiến thức hoặc kỹ năng cao liên quan đến một chủ đề hoặc hoạt động cụ thể",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/expert"
+  },
+  {
+    "Id": "17",
+    "WordName": "forest",
+    "WordType": "Noun",
+    "EnglishDescription": "A large area of land covered with trees and plants, usually larger than a wood, or the trees and plants themselves",
+    "VietMeaning": "Rừng",
+    "VietDescription": "Một vùng đất rộng lớn được bao phủ bởi cây cối và thực vật, thường lớn hơn một khu rừng hoặc bản thân cây cối và thực vật",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/forest"
+  },
+  {
+    "Id": "18",
+    "WordName": "huge",
+    "WordType": "Adjective",
+    "EnglishDescription": "Extremely large in size or amount",
+    "VietMeaning": "Khổng lồ",
+    "VietDescription": "Cực kỳ lớn về kích thước hoặc số lượng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/huge"
+  },
+  {
+    "Id": "19",
+    "WordName": "lifestyle",
+    "WordType": "Noun",
+    "EnglishDescription": "Someone's way of living; the things that a person or particular group of people usually do",
+    "VietMeaning": "Cách sống",
+    "VietDescription": "Cách sống của ai đó; những điều mà một người hoặc một nhóm người cụ thể thường làm",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/lifestyle"
+  },
+
+  {
+    "Id": "20",
+    "WordName": "respond",
+    "WordType": "Verb",
+    "EnglishDescription": "To say or do something as a reaction to something that has been said or done",
+    "VietMeaning": "Trả lời",
+    "VietDescription": "Nói hoặc làm điều gì đó để phản ứng lại điều gì đó đã được nói hoặc làm",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/respond"
+  },
+
+  {
+    "Id": "21",
+    "WordName": "athlete",
+    "WordType": "Noun",
+    "EnglishDescription": "A person who is very good at sports or physical exercise, especially one who competes in organized events",
+    "VietMeaning": "Vận động viên",
+    "VietDescription": "Một người rất giỏi thể thao hoặc tập thể dục, đặc biệt là một người thi đấu trong các sự kiện có tổ chức",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/athlete"
+  },
+  {
+    "Id": "22",
+    "WordName": "care",
+    "WordType": "Noun",
+    "EnglishDescription": "The process of protecting someone or something and providing what that person or thing needs",
+    "VietMeaning": "Quan tâm",
+    "VietDescription": "Quá trình bảo vệ ai đó hoặc một cái gì đó và cung cấp những gì người hoặc vật đó cần",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/care"
+  },
+  {
+    "Id": "23",
+    "WordName": "charity",
+    "WordType": "Noun",
+    "EnglishDescription": "An organization whose purpose is to give money, food, or help to those who need it, or to carry out activities such as medical research that will help people in need, and not to make a profit",
+    "VietMeaning": "Tổ chức từ thiện",
+    "VietDescription": "Một tổ chức có mục đích là cung cấp tiền, thực phẩm hoặc giúp đỡ những người cần nó hoặc thực hiện các hoạt động như nghiên cứu y học để giúp đỡ những người gặp khó khăn chứ không phải để kiếm lợi nhuận",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/charity"
+  },
+  {
+    "Id": "24",
+    "WordName": "curly",
+    "WordType": "Adjective",
+    "EnglishDescription": "Having curls or a curved shape",
+    "VietMeaning": "Quăn",
+    "VietDescription": "Có những lọn tóc hoặc hình cong",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/curly"
+  },
+
+  {
+    "Id": "25",
+    "WordName": "decision",
+    "WordType": "Noun",
+    "EnglishDescription": "A choice that you make about something after thinking about several possibilities",
+    "VietMeaning": "Sự quyết định",
+    "VietDescription": "Một sự lựa chọn mà bạn thực hiện về một cái gì đó sau khi suy nghĩ về một số khả năng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/decision"
+  },
+   {
+    "Id": "26",
+    "WordName": "disaster",
+    "WordType": "Noun",
+    "EnglishDescription": "Great harm, damage, or death, or serious difficulty:",
+    "VietMeaning": "Thảm họa",
+    "VietDescription": "Tổn hại lớn, thiệt hại hoặc tử vong hoặc khó khăn nghiêm trọng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/disaster"
+  },
+  {
+    "Id": "27",
+    "WordName": "effect",
+    "WordType": "Noun",
+    "EnglishDescription": "The result of a particular influence",
+    "VietMeaning": "Tác dụng",
+    "VietDescription": "Kết quả của một ảnh hưởng cụ thể",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/effect"
+  },
+  {
+    "Id": "28",
+    "WordName": "essay",
+    "WordType": "Noun",
+    "EnglishDescription": "A short piece of writing on a particular subject, especially one done by students as part of the work for a course",
+    "VietMeaning": "Tiểu luận",
+    "VietDescription": "Một đoạn văn ngắn về một chủ đề cụ thể, đặc biệt là một đoạn văn do sinh viên thực hiện như một phần của bài tập cho khóa học",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/essay"
+  },
+  {
+    "Id": "29",
+    "WordName": "fashion",
+    "WordType": "Noun",
+    "EnglishDescription": "a style that is popular at a particular time, especially in clothes, hair, make-up, etc",
+    "VietMeaning": "Thời trang",
+    "VietDescription": "Một phong cách phổ biến tại một thời điểm cụ thể, đặc biệt là về quần áo, tóc, trang điểm, v.v.",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/fashion"
+  },
+
+  {
+    "Id": "30",
+    "WordName": "free",
+    "WordType": "Adjective",
+    "EnglishDescription": "Not limited or controlled",
+    "VietMeaning": "Miễn phí",
+    "VietDescription": "Không bị giới hạn hoặc kiểm soát",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/free"
+  },
+  
+  {
+    "Id": "31",
+    "WordName": "government",
+    "WordType": "Noun",
+    "EnglishDescription": "The group of people who officially control a country",
+    "VietMeaning": "Chính phủ",
+    "VietDescription": "Nhóm người chính thức kiểm soát một quốc gia",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/government"
+  },
+  {
+    "Id": "32",
+    "WordName": "hurt",
+    "WordType": "Verb",
+    "EnglishDescription": "To feel pain in a part of your body, or to injure someone or cause them pain",
+    "VietMeaning": "Đau",
+    "VietDescription": "Cảm thấy đau ở một phần cơ thể của bạn, hoặc làm tổn thương ai đó hoặc khiến họ đau đớn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/hurt"
+  },
+  {
+    "Id": "33",
+    "WordName": "included",
+    "WordType": "Adjective ",
+    "EnglishDescription": "Containing something as a part of something else, or making something part of something else",
+    "VietMeaning": "Bao gồm",
+    "VietDescription": "Chứa cái gì đó như một phần của cái gì khác, hoặc biến cái gì đó thành một phần của cái gì khác",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/included"
+  },
+  {
+    "Id": "34",
+    "WordName": "instrument",
+    "WordType": "Noun",
+    "EnglishDescription": "An object, such as a piano, guitar, or drum, that is played to produce musical sounds",
+    "VietMeaning": "Nhạc cụ",
+    "VietDescription": "Một vật thể, chẳng hạn như piano, guitar hoặc trống, được chơi để tạo ra âm thanh âm nhạc",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/instrument"
+  },
+
+  {
+    "Id": "35",
+    "WordName": "jam",
+    "WordType": "Noun",
+    "EnglishDescription": "A sweet, soft food made by cooking fruit with sugar to preserve it. It is eaten on bread",
+    "VietMeaning": "Mứt",
+    "VietDescription": "Một loại thực phẩm ngọt, mềm được làm bằng cách nấu trái cây với đường để bảo quản. Nó được ăn trên bánh mì",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/jam"
+  },
+  
+  {
+    "Id": "36",
+    "WordName": "king",
+    "WordType": "Noun",
+    "EnglishDescription": "A male ruler of a country, who holds this position because of his royal birth:",
+    "VietMeaning": "Vua",
+    "VietDescription": "Một người đàn ông cai trị một đất nước, người giữ vị trí này vì xuất thân hoàng gia",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/king"
+  },
+  
+  {
+    "Id": "37",
+    "WordName": "law",
+    "WordType": "Noun",
+    "EnglishDescription": "A rule, usually made by a government, that is used to order the way in which a society behaves",
+    "VietMeaning": "Pháp luật",
+    "VietDescription": "Một quy tắc, thường được đưa ra bởi chính phủ, được sử dụng để ra lệnh cho cách ứng xử của một xã hội",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/law"
+  },
+  
+  {
+    "Id": "38",
+    "WordName": "level",
+    "WordType": "Noun",
+    "EnglishDescription": "The height of something",
+    "VietMeaning": "Mức độ",
+    "VietDescription": "Chiều cao của một cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/level"
+  },
+  
+  {
+    "Id": "39",
+    "WordName": "look",
+    "WordType": "Verb",
+    "EnglishDescription": "To direct your eyes in order to see",
+    "VietMeaning": "Nhìn, ngó",
+    "VietDescription": "Hướng mắt bạn để nhìn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/look"
+  },
+
+  {
+    "Id": "40",
+    "WordName": "manager",
+    "WordType": "Noun",
+    "EnglishDescription": "The person who is responsible for managing an organization",
+    "VietMeaning": "Giám đốc",
+    "VietDescription": "Người chịu trách nhiệm quản lý một tổ chức",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/manager"
+  },
+  
+  {
+    "Id": "41",
+    "WordName": "nervous",
+    "WordType": "Adjective",
+    "EnglishDescription": "Worried and anxious",
+    "VietMeaning": "Lo lắng",
+    "VietDescription": "Lo lắng và lo sợ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/nervous"
+  },
+  {
+    "Id": "42",
+    "WordName": "ocean",
+    "WordType": "Noun",
+    "EnglishDescription": "A very large area of sea",
+    "VietMeaning": "Đại dương",
+    "VietDescription": "Một vùng biển rất rộng lớn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/ocean"
+  },
+  {
+    "Id": "43",
+    "WordName": "quietly",
+    "WordType": "Adverb",
+    "EnglishDescription": "Without making much noise:",
+    "VietMeaning": "Lặng lẽ",
+    "VietDescription": "Không gây ra nhiều tiếng ồn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/quietly"
+  },
+  {
+    "Id": "44",
+    "WordName": "receive",
+    "WordType": "Noun",
+    "EnglishDescription": "To get or be given something",
+    "VietMeaning": "Nhận được",
+    "VietDescription": "Để có được hoặc được cho một cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/receive"
+  },
+
+  {
+    "Id": "45",
+    "WordName": "report",
+    "WordType": "Noun",
+    "EnglishDescription": "To give a description of something or information about it to someone:",
+    "VietMeaning": "Báo cáo",
+    "VietDescription": "Để đưa ra một mô tả về một cái gì đó hoặc thông tin về nó cho ai đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/report"
+  },
+  
+  {
+    "Id": "46",
+    "WordName": "rise",
+    "WordType": "Verb",
+    "EnglishDescription": "To move upwards",
+    "VietMeaning": "Tăng lên",
+    "VietDescription": "Di chuyển lên trên",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/rise"
+  },
+  
+  {
+    "Id": "47",
+    "WordName": "start",
+    "WordType": "Verb",
+    "EnglishDescription": "To begin doing something:",
+    "VietMeaning": "Bắt đầu",
+    "VietDescription": "Bắt đầu làm điều gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/start"
+  },
+  
+  {
+    "Id": "48",
+    "WordName": "term",
+    "WordType": "Noun",
+    "EnglishDescription": "The fixed period of time that something lasts for",
+    "VietMeaning": "Kỳ hạn",
+    "VietDescription": "Khoảng thời gian cố định mà một cái gì đó kéo dài",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/term"
+  },
+  
+  {
+    "Id": "49",
+    "WordName": "user",
+    "WordType": "Noun",
+    "EnglishDescription": "Someone who uses a product, machine, or service",
+    "VietMeaning": "Người dùng",
+    "VietDescription": "Ai đó sử dụng một sản phẩm, máy móc, hoặc dịch vụ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/user"
+  },
+
+  {
+    "Id": "50",
+    "WordName": "wooden",
+    "WordType": "Adjective",
+    "EnglishDescription": "Made of wood",
+    "VietMeaning": "Bằng gỗ",
+    "VietDescription": "Làm từ gỗ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/wooden"
   }
 ]
