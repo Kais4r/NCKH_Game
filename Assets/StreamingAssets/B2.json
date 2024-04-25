@@ -1,5 +1,5 @@
 [
-  {
+   {
     "Id": "1",
     "WordName": "engage",
     "WordType": "Verb",
@@ -43,5 +43,432 @@
     "VietMeaning": "Chủ nhân",
     "VietDescription": "Người thuê người hầu hoặc sở hữu nô lệ",
     "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/master"
+  },
+  
+  {
+    "Id": "6",
+    "WordName": "adapt",
+    "WordType": "Verb ",
+    "EnglishDescription": "To change, or to change something, to suit different conditions or uses",
+    "VietMeaning": "Thích nghi",
+    "VietDescription": "Thay đổi, hoặc thay đổi cái gì đó, để phù hợp với những điều kiện hoặc mục đích sử dụng khác nhau",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/adapt"
+  },
+  {
+    "Id": "7",
+    "WordName": "brief",
+    "WordType": "Adjective",
+    "EnglishDescription": "Lasting only a short time or containing few words",
+    "VietMeaning": "Ngắn gọn",
+    "VietDescription": "Chỉ kéo dài trong một thời gian ngắn hoặc chứa một vài từ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/brief"
+  },
+  {
+    "Id": "8",
+    "WordName": "citizen",
+    "WordType": "Noun",
+    "EnglishDescription": "A person who is a member of a particular country",
+    "VietMeaning": "Công dân",
+    "VietDescription": "Một người là thành viên của một quốc gia cụ thể",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/citizen"
+  },
+  {
+    "Id": "9",
+    "WordName": "curve",
+    "WordType": "Noun",
+    "EnglishDescription": "A line that bends continuously and has no straight parts",
+    "VietMeaning": "Đường cong",
+    "VietDescription": "Một đường uốn cong liên tục và không có phần thẳng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/curve"
+  },
+
+  {
+    "Id": "10",
+    "WordName": "dismiss",
+    "WordType": "Verb",
+    "EnglishDescription": "To decide that something or someone is not important and not worth considering",
+    "VietMeaning": "Miễn nhiệm",
+    "VietDescription": "Quyết định rằng cái gì đó hoặc ai đó không quan trọng và không đáng xem xét",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/dismiss"
+  },
+  
+  {
+    "Id": "11",
+    "WordName": "estate",
+    "WordType": "Noun",
+    "EnglishDescription": "A large area of land in the country that is owned by a family or an organization and is often used for growing crops or raising animals",
+    "VietMeaning": "Bất động sản",
+    "VietDescription": "Một diện tích đất rộng lớn trong nước thuộc sở hữu của một gia đình hoặc một tổ chức và thường được sử dụng để trồng trọt hoặc chăn nuôi",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/estate"
+  },
+  {
+    "Id": "12",
+    "WordName": "float",
+    "WordType": "Verb",
+    "EnglishDescription": "To stay on the surface of a liquid and not sink",
+    "VietMeaning": "Trôi nổi",
+    "VietDescription": "Ở trên bề mặt chất lỏng và không chìm",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/float"
+  },
+  {
+    "Id": "13",
+    "WordName": "grand",
+    "WordType": "Adjective",
+    "EnglishDescription": "Important and large in degree",
+    "VietMeaning": "Vĩ đại",
+    "VietDescription": "Quan trọng và lớn về mức độ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/grand"
+  },
+  {
+    "Id": "14",
+    "WordName": "ideal",
+    "WordType": "Adjective",
+    "EnglishDescription": "Perfect, or the best possible",
+    "VietMeaning": "Lý tưởng",
+    "VietDescription": "Hoàn hảo, hoặc tốt nhất có thể",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/ideal"
+  },
+
+  {
+    "Id": "15",
+    "WordName": "majority",
+    "WordType": "Noun",
+    "EnglishDescription": "The larger number or part of something",
+    "VietMeaning": "Số đông",
+    "VietDescription": "Số lượng lớn hơn hoặc một phần của một cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/majority"
+  },
+   {
+    "Id": "16",
+    "WordName": "origin",
+    "WordType": "Noun",
+    "EnglishDescription": "The beginning or cause of something",
+    "VietMeaning": "Nguồn gốc",
+    "VietDescription": "Sự khởi đầu hoặc nguyên nhân của một cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/origin"
+  },
+  {
+    "Id": "17",
+    "WordName": "process",
+    "WordType": "Verb",
+    "EnglishDescription": "A series of actions that you take in order to achieve a result",
+    "VietMeaning": "Quá trình",
+    "VietDescription": "Một loạt các hành động mà bạn thực hiện để đạt được kết quả",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/process"
+  },
+  {
+    "Id": "18",
+    "WordName": "raw",
+    "WordType": "Adjective",
+    "EnglishDescription": "Not cooked",
+    "VietMeaning": "Sống",
+    "VietDescription": "Không được nấu chín",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/raw"
+  },
+  {
+    "Id": "19",
+    "WordName": "severe",
+    "WordType": "Adjective",
+    "EnglishDescription": "Causing very great pain, difficulty, worry, damage, etc.; very serious",
+    "VietMeaning": "Nghiêm trọng",
+    "VietDescription": "Gây đau đớn, khó khăn, lo lắng, tổn hại rất lớn...; rất nghiêm trọng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/severe"
+  },
+
+  {
+    "Id": "20",
+    "WordName": "zone",
+    "WordType": "Noun",
+    "EnglishDescription": "An area, especially one that is different from the areas around it because it has different characteristics or is used for different purposes",
+    "VietMeaning": "Vùng",
+    "VietDescription": "Một khu vực, đặc biệt là khu vực khác với các khu vực xung quanh vì nó có những đặc điểm khác nhau hoặc được sử dụng cho các mục đích khác nhau",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/zone"
+  },
+
+  {
+    "Id": "21",
+    "WordName": "urban",
+    "WordType": "Adjective",
+    "EnglishDescription": "of or in a city or town",
+    "VietMeaning": "Đô thị",
+    "VietDescription": "Của hoặc trong một thành phố hoặc thị trấn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/urban"
+  },
+  {
+    "Id": "22",
+    "WordName": "zone",
+    "WordType": "Noun",
+    "EnglishDescription": "An area, especially one that is different from the areas around it because it has different characteristics or is used for different purposes:",
+    "VietMeaning": "Vùng",
+    "VietDescription": "Một khu vực, đặc biệt là một khu vực khác với các khu vực xung quanh nó vì nó có các đặc điểm khác nhau hoặc được sử dụng cho các mục đích khác nhau:",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/zone"
+  },
+  {
+    "Id": "23",
+    "WordName": "yet",
+    "WordType": "Adverb",
+    "EnglishDescription": "Until the present time",
+    "VietMeaning": "Cho đến thời điểm hiện tại",
+    "VietDescription": "Cho đến thời điểm hiện tại:",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/yet"
+  },
+  {
+    "Id": "24",
+    "WordName": "wrong",
+    "WordType": "Adjective",
+    "EnglishDescription": "not correct",
+    "VietMeaning": "sai",
+    "VietDescription": "Không đúng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/wrong"
+  },
+
+  {
+    "Id": "25",
+    "WordName": "wrap",
+    "WordType": "Verb",
+    "EnglishDescription": "To cover or surround something with paper, cloth, or other material",
+    "VietMeaning": "gói",
+    "VietDescription": "Để che hoặc bao quanh một cái gì đó bằng giấy, vải hoặc vật liệu khác",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/wrap"
+  },
+   {
+    "Id": "26",
+    "WordName": "wound",
+    "WordType": "Noun",
+    "EnglishDescription": "A damaged area of the body, such as a cut or hole in the skin or flesh made by a weapon:",
+    "VietMeaning": "Vết thương",
+    "VietDescription": "Một khu vực bị tổn thương của cơ thể, chẳng hạn như vết cắt hoặc lỗ trên da hoặc thịt do vũ khí tạo ra",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/wound"
+  },
+  {
+    "Id": "27",
+    "WordName": "wildlife",
+    "WordType": "Noun",
+    "EnglishDescription": "Animals and plants that grow independently of people, usually in natural conditions",
+    "VietMeaning": "Hoang dã",
+    "VietDescription": "Động vật và thực vật phát triển độc lập với con người, thường là trong điều kiện tự nhiên",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/wildlife"
+  },
+  {
+    "Id": "28",
+    "WordName": "worth",
+    "WordType": "Adjective",
+    "EnglishDescription": "Having a particular value, especially in money",
+    "VietMeaning": "Đáng",
+    "VietDescription": "Có một giá trị đặc biệt, đặc biệt là bằng tiền",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/worth"
+  },
+  {
+    "Id": "29",
+    "WordName": "Worst",
+    "WordType": "Adjective",
+    "EnglishDescription": "superlative of bad : of the lowest quality, or the most unpleasant, difficult, or severe",
+    "VietMeaning": "Tệ",
+    "VietDescription": "So sánh nhất của xấu : chất lượng thấp nhất, hoặc khó chịu nhất, khó khăn hoặc nghiêm trọng nhất",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/worst"
+  },
+
+  {
+    "Id": "30",
+    "WordName": "wind",
+    "WordType": "Noun",
+    "EnglishDescription": "a current of air moving approximately horizontally, especially one strong enough to be felt",
+    "VietMeaning": "Gió",
+    "VietDescription": "một luồng không khí di chuyển xấp xỉ theo chiều ngang, đặc biệt là một luồng không khí đủ mạnh để cảm nhận",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/wind"
+  },
+  
+  {
+    "Id": "31",
+    "WordName": "Adverb",
+    "WordType": "Noun",
+    "EnglishDescription": "including a lot of different places, people, subjects, etc",
+    "VietMeaning": "Rộng rãi",
+    "VietDescription": "bao gồm rất nhiều địa điểm, con người, đối tượng khác nhau, v.v",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/widely"
+  },
+  {
+    "Id": "32",
+    "WordName": "willing",
+    "WordType": "Adjective",
+    "EnglishDescription": "A willing person does their work energetically and enthusiastically",
+    "VietMeaning": "Sẵn sàng",
+    "VietDescription": "Một người sẵn sàng làm công việc của họ một cách hăng hái và nhiệt tình",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/willing"
+  },
+  {
+    "Id": "33",
+    "WordName": "whom",
+    "WordType": "Pronoun ",
+    "EnglishDescription": "Used instead of who as the object of a verb or preposition",
+    "VietMeaning": "Ai",
+    "VietDescription": "Được sử dụng thay vì who làm đối tượng của động từ hoặc giới từ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/whom"
+  },
+  {
+    "Id": "34",
+    "WordName": "wire",
+    "WordType": "Noun",
+    "EnglishDescription": "a secret recording device hidden worn by a person, especially one that is hidden in their clothes",
+    "VietMeaning": "Dây điện",
+    "VietDescription": "một thiết bị ghi âm bí mật được giấu bởi một người, đặc biệt là thiết bị được giấu trong quần áo của họ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/wire"
+  },
+
+  {
+    "Id": "35",
+    "WordName": "whisper",
+    "WordType": "Verb",
+    "EnglishDescription": "To speak very quietly, using the breath but not the voice, so that only the person close to you can hear you",
+    "VietMeaning": "Thì thầm",
+    "VietDescription": "Nói rất nhỏ, sử dụng hơi thở chứ không phải giọng nói, để chỉ người ở gần mới có thể nghe thấy bạn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/whisper"
+  },
+  
+  {
+    "Id": "36",
+    "WordName": "wherever",
+    "WordType": "Adverb, conjunction",
+    "EnglishDescription": "To or in any or every place",
+    "VietMeaning": "Bất cứ nơi nào",
+    "VietDescription": "Đến hoặc ở bất kỳ hoặc mọi nơi",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/wherever"
+  },
+  
+  {
+    "Id": "37",
+    "WordName": "whereas",
+    "WordType": "Conjunction",
+    "EnglishDescription": "Compared with the fact that; but",
+    "VietMeaning": "Trong khi",
+    "VietDescription": "So với thực tế là; Nhưng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/whereas"
+  },
+  
+  {
+    "Id": "38",
+    "WordName": "weakness",
+    "WordType": "Noun",
+    "EnglishDescription": "The fact or state of not being strong or powerful",
+    "VietMeaning": "yếu đuối",
+    "VietDescription": "Thực tế hoặc trạng thái không mạnh mẽ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/weakness"
+  },
+  
+  {
+    "Id": "39",
+    "WordName": "urge",
+    "WordType": "Verb",
+    "EnglishDescription": "A strong wish, especially one that is difficult or impossible to control",
+    "VietMeaning": "Thúc giục",
+    "VietDescription": "Một mong muốn mạnh mẽ, đặc biệt là một mong muốn khó khăn hoặc không thể kiểm soát",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/urge"
+  },
+
+  {
+    "Id": "40",
+    "WordName": "volume",
+    "WordType": "Noun",
+    "EnglishDescription": "The amount of space that is contained within an object or solid shape",
+    "VietMeaning": "Âm lượng",
+    "VietDescription": "lượng không gian được chứa trong một vật thể hoặc hình dạng rắn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/volume"
+  },
+  
+  {
+    "Id": "41",
+    "WordName": "vitamin",
+    "WordType": "Noun",
+    "EnglishDescription": "Any of a group of natural substances that are necessary in small amounts for the growth and good health of the body",
+    "VietMeaning": "Vitamin",
+    "VietDescription": "Bất kỳ nhóm chất tự nhiên nào cần thiết với số lượng nhỏ cho sự tăng trưởng và sức khỏe tốt của cơ thể",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/vitamin"
+  },
+  {
+    "Id": "42",
+    "WordName": "vision",
+    "WordType": "Noun",
+    "EnglishDescription": "An idea or mental image of something",
+    "VietMeaning": "Tầm nhìn",
+    "VietDescription": "Một ý tưởng hoặc hình ảnh tinh thần của một cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/vision"
+  },
+  {
+    "Id": "43",
+    "WordName": "upwards",
+    "WordType": "Adverb",
+    "EnglishDescription": "Towards a higher position, level, or value",
+    "VietMeaning": "Trở lên",
+    "VietDescription": "Hướng tới một vị trí, cấp độ hoặc giá trị cao hơn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/upwards"
+  },
+  {
+    "Id": "44",
+    "WordName": "universe",
+    "WordType": "Noun",
+    "EnglishDescription": "Everything that exists, especially all physical matter, including all the stars, planets, galaxies, etc. in space",
+    "VietMeaning": "vũ trụ",
+    "VietDescription": "Mọi thứ tồn tại, đặc biệt là mọi vật chất, bao gồm tất cả các ngôi sao, hành tinh, thiên hà, v.v. trong không gian",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/universe"
+  },
+
+  {
+    "Id": "45",
+    "WordName": "tunnel",
+    "WordType": "Noun",
+    "EnglishDescription": "A long passage under or through the ground, especially one made by people",
+    "VietMeaning": "Đường hầm",
+    "VietDescription": "Một lối đi dài dưới hoặc xuyên qua mặt đất, đặc biệt là lối đi do con người tạo ra",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/tunnel"
+  },
+  
+  {
+    "Id": "46",
+    "WordName": "trust",
+    "WordType": "Verb",
+    "EnglishDescription": "To believe that someone is good and honest and will not harm you, or that something is safe and reliable",
+    "VietMeaning": "Tin tưởng",
+    "VietDescription": "Tin rằng ai đó là tốt và trung thực và sẽ không làm hại bạn, hoặc điều gì đó là an toàn và đáng tin cậy",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/trust"
+  },
+  
+  {
+    "Id": "47",
+    "WordName": "trouble",
+    "WordType": "Verb",
+    "EnglishDescription": "Problems or difficulties",
+    "VietMeaning": "Rắc rối",
+    "VietDescription": "Vấn đề hoặc khó khăn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/trouble"
+  },
+  
+  {
+    "Id": "48",
+    "WordName": "trial",
+    "WordType": "Noun",
+    "EnglishDescription": "The hearing of statements and showing of objects, etc. in a law court to judge if a person is guilty of a crime or to decide a case or a legal matter",
+    "VietMeaning": "Sự thử nghiệm",
+    "VietDescription": "Việc nghe lời khai và trình bày đồ vật, v.v. tại tòa án để xét xử xem một người có phạm tội hay để quyết định một vụ án hoặc một vấn đề pháp lý",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/trial"
+  },
+  
+  {
+    "Id": "49",
+    "WordName": "transition",
+    "WordType": "Noun",
+    "EnglishDescription": "A change from one form or type to another, or the process by which this happens",
+    "VietMeaning": "Chuyển tiếp",
+    "VietDescription": "Sự thay đổi từ dạng này sang dạng khác hoặc quá trình thực hiện điều này",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/transition"
+  },
+
+  {
+    "Id": "50",
+    "WordName": "tropical",
+    "WordType": "Adjective",
+    "EnglishDescription": "From or relating to the area between the two tropics",
+    "VietMeaning": "Nhiệt đới",
+    "VietDescription": "Từ hoặc liên quan đến khu vực giữa hai vùng nhiệt đới",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/tropical"
   }
 ]

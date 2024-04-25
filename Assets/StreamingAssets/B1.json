@@ -43,5 +43,433 @@
     "VietMeaning": "Biểu đồ",
     "VietDescription": "Một kế hoạch đơn giản thể hiện một cỗ máy, hệ thống hoặc ý tưởng, v.v., thường được vẽ ra để giải thích cách thức hoạt động của nó",
     "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/diagram"
+  },
+  
+  {
+    "Id": "6",
+    "WordName": "appreciate",
+    "WordType": "Verb ",
+    "EnglishDescription": "To recognize how good someone or something is and to value them or it",
+    "VietMeaning": "Đánh giá cao",
+    "VietDescription": "Nhận ra ai đó hoặc điều gì đó tốt như thế nào và đánh giá cao họ hoặc điều đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/appreciate"
+  },
+  {
+    "Id": "7",
+    "WordName": "authority",
+    "WordType": "Noun",
+    "EnglishDescription": "The moral or legal right or ability to control",
+    "VietMeaning": "Quyền thế",
+    "VietDescription": "Quyền hoặc khả năng kiểm soát về mặt đạo đức hoặc pháp lý",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/authority"
+  },
+  {
+    "Id": "8",
+    "WordName": "border",
+    "WordType": "Verb",
+    "EnglishDescription": "A line that has been agreed to divide one country from another",
+    "VietMeaning": "Ranh giới",
+    "VietDescription": "Một đường đã được đồng ý để phân chia nước này với nước khác",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/border"
+  },
+  {
+    "Id": "9",
+    "WordName": "court",
+    "WordType": "Noun",
+    "EnglishDescription": "A place where trials and other legal cases happen, or the people present in such a place, especially the officials and those deciding if someone is guilty",
+    "VietMeaning": "Tòa án",
+    "VietDescription": "Nơi diễn ra các phiên tòa và các vụ án pháp lý khác hoặc những người có mặt ở nơi đó, đặc biệt là các quan chức và những người quyết định xem ai đó có tội",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/court"
+  },
+
+  {
+    "Id": "10",
+    "WordName": "departure",
+    "WordType": "Noun",
+    "EnglishDescription": "The fact of a person or vehicle, etc. leaving somewhere",
+    "VietMeaning": "Sự khởi hành",
+    "VietDescription": "Sự thật về một người hoặc một phương tiện, v.v. rời khỏi một nơi nào đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/departure"
+  },
+  
+  {
+    "Id": "11",
+    "WordName": "donate",
+    "WordType": "Verb",
+    "EnglishDescription": "To give money or goods to help a person or organization",
+    "VietMeaning": "Quyên tặng",
+    "VietDescription": "Đưa tiền hoặc hàng hóa để giúp đỡ một người hoặc tổ chức",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/donate"
+  },
+  {
+    "Id": "12",
+    "WordName": "effort",
+    "WordType": "Noun",
+    "EnglishDescription": "Physical or mental activity needed to achieve something",
+    "VietMeaning": "Cố gắng",
+    "VietDescription": "Hoạt động thể chất hoặc tinh thần cần thiết để đạt được một cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/effort"
+  },
+  {
+    "Id": "13",
+    "WordName": "equal",
+    "WordType": "Adjective",
+    "EnglishDescription": "The same in amount, number, or size",
+    "VietMeaning": "Bình đẳng",
+    "VietDescription": "Giống nhau về số lượng, số lượng hoặc kích thước",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/equal"
+  },
+  {
+    "Id": "14",
+    "WordName": "favour",
+    "WordType": "Noun",
+    "EnglishDescription": "The support or approval of something or someone",
+    "VietMeaning": "Ủng hộ",
+    "VietDescription": "Sự hỗ trợ hoặc phê duyệt của một cái gì đó hoặc ai đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/favour"
+  },
+
+  {
+    "Id": "15",
+    "WordName": "generous",
+    "WordType": "Adjective",
+    "EnglishDescription": "Willing to give money, help, kindness, etc., especially more than is usual or expected",
+    "VietMeaning": "Hào phóng",
+    "VietDescription": "Sẵn sàng cho tiền, giúp đỡ, lòng tốt, v.v., đặc biệt nhiều hơn mức bình thường hoặc mong đợi",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/generous"
+  },
+   {
+    "Id": "16",
+    "WordName": "expert",
+    "WordType": "Noun",
+    "EnglishDescription": "A person with a high level of knowledge or skill relating to a particular subject or activity",
+    "VietMeaning": "Chuyên gia",
+    "VietDescription": "Một người có trình độ kiến thức hoặc kỹ năng cao liên quan đến một chủ đề hoặc hoạt động cụ thể",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/expert"
+  },
+  {
+    "Id": "17",
+    "WordName": "hunt",
+    "WordType": "Verb",
+    "EnglishDescription": "To chase and try to catch and kill an animal or bird for food, sport, or profit",
+    "VietMeaning": "Săn bắn",
+    "VietDescription": "Đuổi theo và cố gắng bắt và giết một con vật hoặc con chim để làm thức ăn, thể thao hoặc kiếm lời",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/hunt"
+  },
+  {
+    "Id": "18",
+    "WordName": "invest",
+    "WordType": "Adjective",
+    "EnglishDescription": "To put money, effort, time, etc. into something to make a profit or get an advantage",
+    "VietMeaning": "Đầu tư",
+    "VietDescription": "Bỏ tiền bạc, công sức, thời gian, v.v. vào cái gì đó để kiếm lợi nhuận hoặc có được lợi thế",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/invest"
+  },
+  {
+    "Id": "19",
+    "WordName": "occur",
+    "WordType": "Verb",
+    "EnglishDescription": "To happen",
+    "VietMeaning": "Xảy ra",
+    "VietDescription": "Xảy ra",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/occur"
+  },
+
+  {
+    "Id": "20",
+    "WordName": "reaction",
+    "WordType": "Noun",
+    "EnglishDescription": "Behaviour, a feeling or an action that is a direct result of something else:",
+    "VietMeaning": "Sự phản ứng",
+    "VietDescription": "Hành vi, cảm giác hoặc hành động là kết quả trực tiếp của cái gì khác",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/reaction"
+  },
+
+  {
+    "Id": "21",
+    "WordName": "agent",
+    "WordType": "Noun",
+    "EnglishDescription": "A person who acts for or represents another",
+    "VietMeaning": "Đại lý",
+    "VietDescription": "Một người hành động cho hoặc đại diện cho người khác",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/agent"
+  },
+  
+  {
+    "Id": "22",
+    "WordName": "atmosphere",
+    "WordType": "Noun",
+    "EnglishDescription": "The air that you breathe in a place",
+    "VietMeaning": "Bầu khí quyển",
+    "VietDescription": "Không khí bạn hít thở ở một nơi",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/atmosphere"
+  },
+  {
+    "Id": "23",
+    "WordName": "branch",
+    "WordType": "Noun",
+    "EnglishDescription": "A part of something larger",
+    "VietMeaning": "Chi nhánh",
+    "VietDescription": "Một phần của cái gì đó lớn hơn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/branch"
+  },
+  {
+    "Id": "24",
+    "WordName": "client",
+    "WordType": "Noun",
+    "EnglishDescription": "A customer or someone who receives services",
+    "VietMeaning": "Một khách hàng hoặc một người nhận dịch vụ",
+    "VietDescription": "Có những lọn tóc hoặc hình cong",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/client"
+  },
+
+  {
+    "Id": "25",
+    "WordName": "comparison",
+    "WordType": "Noun",
+    "EnglishDescription": "The act of comparing two or more people or things",
+    "VietMeaning": "So sánh",
+    "VietDescription": "Hành động so sánh hai hoặc nhiều người hoặc sự vật",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/comparison"
+  },
+   {
+    "Id": "26",
+    "WordName": "definition",
+    "WordType": "Noun",
+    "EnglishDescription": "A statement that explains the meaning of a word or phrase",
+    "VietMeaning": "Sự định nghĩa",
+    "VietDescription": "Một tuyên bố giải thích ý nghĩa của một từ hoặc cụm từ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/definition"
+  },
+  {
+    "Id": "27",
+    "WordName": "drunk",
+    "WordType": "Adjective ",
+    "EnglishDescription": "Unable to speak or act in the usual way because of having had too much alcohol",
+    "VietMeaning": "Say rượu",
+    "VietDescription": "Không thể nói hoặc hành động theo cách thông thường vì đã uống quá nhiều rượu",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/drunk"
+  },
+  {
+    "Id": "28",
+    "WordName": "element",
+    "WordType": "Noun",
+    "EnglishDescription": "A part of something",
+    "VietMeaning": "Yếu tố",
+    "VietDescription": "Một phần của cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/element"
+  },
+  {
+    "Id": "29",
+    "WordName": "entertain",
+    "WordType": "Verb",
+    "EnglishDescription": "To keep a group of people interested or enjoying themselves",
+    "VietMeaning": "Khuây khỏa",
+    "VietDescription": "Để giữ một nhóm người quan tâm hoặc tận hưởng chính mình",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/entertain"
+  },
+
+  {
+    "Id": "30",
+    "WordName": "explore",
+    "WordType": "Verb",
+    "EnglishDescription": "To search a place and discover things about it",
+    "VietMeaning": "Khám phá",
+    "VietDescription": "Để tìm kiếm một địa điểm và khám phá những điều về nó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/explore"
+  },
+  
+  {
+    "Id": "31",
+    "WordName": "graduate",
+    "WordType": "Noun",
+    "EnglishDescription": "A person who has a first degree from a university or college",
+    "VietMeaning": "Tốt nghiệp",
+    "VietDescription": "Một người có bằng cấp đầu tiên từ một trường đại học hoặc cao đẳng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/graduate"
+  },
+  {
+    "Id": "32",
+    "WordName": "hurricane",
+    "WordType": "Noun",
+    "EnglishDescription": "A violent wind that has a circular movement,",
+    "VietMeaning": "Cuồng phong",
+    "VietDescription": "Một cơn gió dữ dội có chuyển động tròn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/hurricane"
+  },
+  {
+    "Id": "33",
+    "WordName": "immigrant",
+    "WordType": "Noun ",
+    "EnglishDescription": "A person who has come to a different country in order to live there permanently",
+    "VietMeaning": "Di trú",
+    "VietDescription": "Một người đã đến một đất nước khác để sống ở đó lâu dài",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/immigrant"
+  },
+  {
+    "Id": "34",
+    "WordName": "laboratory",
+    "WordType": "Noun",
+    "EnglishDescription": "A room or building with scientific equipment for doing scientific tests or for teaching science, or a place where chemicals or medicines are produced",
+    "VietMeaning": "Phòng thí nghiệm",
+    "VietDescription": "Phòng hoặc tòa nhà có thiết bị khoa học để thực hiện các bài kiểm tra khoa học hoặc giảng dạy khoa học hoặc nơi sản xuất hóa chất hoặc thuốc",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/laboratory"
+  },
+
+  {
+    "Id": "35",
+    "WordName": "luxury",
+    "WordType": "Noun",
+    "EnglishDescription": "Great comfort, especially as provided by expensive and beautiful things",
+    "VietMeaning": "Sang trọng",
+    "VietDescription": "Sự thoải mái tuyệt vời, đặc biệt là được cung cấp bởi những thứ đắt tiền và đẹp đẽ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/luxury"
+  },
+  
+  {
+    "Id": "36",
+    "WordName": "mystery",
+    "WordType": "Noun",
+    "EnglishDescription": "Something strange or not known that has not yet been explained or understood",
+    "VietMeaning": "Bí ẩn",
+    "VietDescription": "Điều gì đó kỳ lạ hoặc chưa biết và chưa được giải thích hoặc hiểu rõ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/mystery"
+  },
+  
+  {
+    "Id": "37",
+    "WordName": "original",
+    "WordType": "Adjective",
+    "EnglishDescription": "Existing since the beginning, or being the earliest form of something",
+    "VietMeaning": "Nguyên bản",
+    "VietDescription": "Tồn tại từ đầu, hoặc là hình thức sớm nhất của một cái gì đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/original"
+  },
+  
+  {
+    "Id": "38",
+    "WordName": "percentage",
+    "WordType": "Noun",
+    "EnglishDescription": "An amount of something, often expressed as a number out of 100",
+    "VietMeaning": "Tỷ lệ phần trăm",
+    "VietDescription": "Một lượng của một cái gì đó, thường được biểu thị bằng một con số trên 100",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/percentage"
+  },
+  
+  {
+    "Id": "39",
+    "WordName": "portrait",
+    "WordType": "Noun",
+    "EnglishDescription": "A painting, photograph, drawing, etc. of a person or, less commonly, of a group of people",
+    "VietMeaning": "Chân dung",
+    "VietDescription": "Một bức tranh, bức ảnh, bản vẽ, v.v. của một người hoặc ít phổ biến hơn là của một nhóm người",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/portrait"
+  },
+
+  {
+    "Id": "40",
+    "WordName": "property",
+    "WordType": "Noun",
+    "EnglishDescription": "An object or objects that belong to someone",
+    "VietMeaning": "Tài sản",
+    "VietDescription": "Một đồ vật hoặc nhiều đồ vật thuộc về ai đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/property"
+  },
+  
+  {
+    "Id": "41",
+    "WordName": "receipt",
+    "WordType": "Noun",
+    "EnglishDescription": "Something such as a piece of paper or message proving that money, goods, or information have been received",
+    "VietMeaning": "Biên lai",
+    "VietDescription": "Thứ gì đó chẳng hạn như một mảnh giấy hoặc tin nhắn chứng minh rằng tiền, hàng hóa hoặc thông tin đã được nhận",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/receipt"
+  },
+  {
+    "Id": "42",
+    "WordName": "rent",
+    "WordType": "Noun",
+    "EnglishDescription": "A fixed amount of money that you pay regularly for the use of a room, house, car, television, etc. that someone else owns",
+    "VietMeaning": "Tiền mướn nhà",
+    "VietDescription": "Một số tiền cố định mà bạn phải trả thường xuyên để sử dụng căn phòng, ngôi nhà, xe hơi, tivi, v.v. mà người khác sở hữu",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/rent"
+  },
+  {
+    "Id": "43",
+    "WordName": "reservation",
+    "WordType": "Noun",
+    "EnglishDescription": "An arrangement in which something such as a seat on an aircraft or a table at a restaurant is kept for you",
+    "VietMeaning": "Sự đặt chỗ",
+    "VietDescription": "Sự sắp xếp trong đó một thứ gì đó như chỗ ngồi trên máy bay hoặc bàn ở nhà hàng được giữ lại cho bạn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/reservation"
+  },
+  {
+    "Id": "44",
+    "WordName": "rope",
+    "WordType": "Noun",
+    "EnglishDescription": "(A piece of) strong, thick string made of long twisted threads",
+    "VietMeaning": "Dây thừng",
+    "VietDescription": "(Một đoạn) sợi dây dày, chắc làm từ những sợi dây xoắn dài",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/rope"
+  },
+
+  {
+    "Id": "45",
+    "WordName": "security",
+    "WordType": "Noun",
+    "EnglishDescription": "Protection of a person, building, organization, or country against threats such as crime or attacks by foreign countries",
+    "VietMeaning": "Bảo vệ",
+    "VietDescription": "Bảo vệ một người, tòa nhà, tổ chức hoặc quốc gia chống lại các mối đe dọa như tội phạm hoặc các cuộc tấn công của nước ngoài",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/security"
+  },
+  
+  {
+    "Id": "46",
+    "WordName": "slice",
+    "WordType": "Noun",
+    "EnglishDescription": "A flat, often thin, piece of food that has been cut from a larger piece",
+    "VietMeaning": "Lát cắt",
+    "VietDescription": "Một miếng thức ăn dẹt, thường mỏng, được cắt từ một miếng lớn hơn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/slice"
+  },
+  
+  {
+    "Id": "47",
+    "WordName": "throat",
+    "WordType": "Noun",
+    "EnglishDescription": "The front of the neck, or the space inside the neck down which food and air can go",
+    "VietMeaning": "Họng",
+    "VietDescription": "Phía trước cổ hoặc khoảng trống bên trong cổ mà thức ăn và không khí có thể đi xuống",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/throat"
+  },
+  
+  {
+    "Id": "48",
+    "WordName": "port",
+    "WordType": "Noun",
+    "EnglishDescription": "A town by the sea or by a river that has a harbour, or the harbour itself",
+    "VietMeaning": "Hải cảng",
+    "VietDescription": "Một thị trấn gần biển hoặc cạnh sông có bến cảng hoặc chính bến cảng đó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/port"
+  },
+  
+  {
+    "Id": "49",
+    "WordName": "tyre",
+    "WordType": "Noun",
+    "EnglishDescription": "A thick rubber ring, often filled with air, that is fitted around the outer edge of the wheel of a vehicle, allowing the vehicle to stick to the road surface and to travel over the ground more easily",
+    "VietMeaning": "Lốp xe",
+    "VietDescription": "Một vòng cao su dày, thường chứa đầy không khí, được lắp quanh mép ngoài của bánh xe, cho phép xe bám vào mặt đường và di chuyển trên mặt đất dễ dàng hơn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/tyre"
+  },
+
+  {
+    "Id": "50",
+    "WordName": "rugby",
+    "WordType": "Noun",
+    "EnglishDescription": "A sport where two teams try to score points by carrying an oval ball across a particular line or kicking it over and between an H-shaped set of posts",
+    "VietMeaning": "Bóng bầu dục",
+    "VietDescription": "Một môn thể thao trong đó hai đội cố gắng ghi điểm bằng cách mang một quả bóng hình bầu dục qua một đường cụ thể hoặc đá nó qua và giữa một tập hợp các cột hình chữ H",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/rugby"
   }
 ]

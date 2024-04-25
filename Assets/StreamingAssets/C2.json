@@ -43,5 +43,145 @@
     "VietMeaning": "Tiền công",
     "VietDescription": "Thanh toán cho công việc hoặc dịch vụ",
     "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/remuneration?q=remuneration+"
+  },
+  
+  {
+    "Id": "6",
+    "WordName": "agenda",
+    "WordType": "Noun ",
+    "EnglishDescription": "A list of aims or possible future achievements",
+    "VietMeaning": "Chương trình nghị sự",
+    "VietDescription": "Một danh sách các mục tiêu hoặc những thành tựu có thể đạt được trong tương lai",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/agenda"
+  },
+  {
+    "Id": "7",
+    "WordName": "astronomy",
+    "WordType": "Noun",
+    "EnglishDescription": "The scientific study of the universe and of objects that exist naturally in space, such as the moon, the sun, planets, and stars",
+    "VietMeaning": "Thiên văn học",
+    "VietDescription": "Nghiên cứu khoa học về vũ trụ và các vật thể tồn tại tự nhiên trong không gian, như mặt trăng, mặt trời, các hành tinh và các ngôi sao",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/astronomy"
+  },
+  {
+    "Id": "8",
+    "WordName": "blackmail",
+    "WordType": "Noun",
+    "EnglishDescription": "The act of getting money from people or forcing them to do something by threatening to tell a secret of theirs or to harm them",
+    "VietMeaning": "Tống tiền",
+    "VietDescription": "Hành động nhận tiền từ người khác hoặc buộc họ làm điều gì đó bằng cách đe dọa tiết lộ bí mật của họ hoặc làm hại họ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/blackmail"
+  },
+  {
+    "Id": "9",
+    "WordName": "capitalism",
+    "WordType": "Noun",
+    "EnglishDescription": "An economic and political system in which property, business, and industry are controlled by private owners rather than by the state, with the purpose of making a profit",
+    "VietMeaning": "Chủ nghĩa tư bản",
+    "VietDescription": "Một hệ thống kinh tế và chính trị trong đó tài sản, kinh doanh và công nghiệp được kiểm soát bởi chủ sở hữu tư nhân chứ không phải bởi nhà nước, với mục đích kiếm lợi nhuận",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/capitalism"
+  },
+
+  {
+    "Id": "10",
+    "WordName": "central",
+    "WordType": "Adjective",
+    "EnglishDescription": "Main or important",
+    "VietMeaning": "Trọng yếu",
+    "VietDescription": "Chính hoặc quan trọng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/central"
+  },
+  
+  {
+    "Id": "11",
+    "WordName": "commemorate",
+    "WordType": "Verb",
+    "EnglishDescription": "To remember officially and give respect to a great person or event, especially by a public ceremony or by making a statue or special building",
+    "VietMeaning": "Truy niệm",
+    "VietDescription": "Tưởng nhớ một cách chính thức và bày tỏ sự kính trọng đối với một người hay sự kiện vĩ đại, đặc biệt bằng một buổi lễ công cộng hoặc bằng cách làm một bức tượng hoặc tòa nhà đặc biệt",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/commemorate"
+  },
+  {
+    "Id": "12",
+    "WordName": "consideration",
+    "WordType": "Noun",
+    "EnglishDescription": "Behaviour that is kind and considers people's feelings",
+    "VietMeaning": "Sự kính trọng",
+    "VietDescription": "Cư xử tử tế và quan tâm đến cảm xúc của mọi người",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/consideration"
+  },
+  {
+    "Id": "13",
+    "WordName": "denial",
+    "WordType": "Noun",
+    "EnglishDescription": "A statement that something is not true or does not exist",
+    "VietMeaning": "Phủ nhận",
+    "VietDescription": "Một tuyên bố rằng một cái gì đó là không đúng sự thật hoặc không tồn tại",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/denial"
+  },
+  {
+    "Id": "14",
+    "WordName": "dominance",
+    "WordType": "Noun",
+    "EnglishDescription": "The quality of being more important, strong, or successful than anything else of the same type",
+    "VietMeaning": "Ưu thế",
+    "VietDescription": "Chất lượng quan trọng hơn, mạnh mẽ hơn hoặc thành công hơn bất cứ thứ gì khác cùng loại",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/dominance"
+  },
+
+  {
+    "Id": "15",
+    "WordName": "echo",
+    "WordType": "Noun",
+    "EnglishDescription": "A sound that is heard after it has been reflected off a surface such as a wall or a cliff",
+    "VietMeaning": "Tiếng vọng",
+    "VietDescription": "Một âm thanh được nghe thấy sau khi nó bị phản xạ khỏi một bề mặt như bức tường hoặc vách đá",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/echo"
+  },
+  {
+    "Id": "16",
+    "WordName": "fictional",
+    "WordType": "Adjective",
+    "EnglishDescription": "Imaginary",
+    "VietMeaning": "Hư cấu",
+    "VietDescription": "Tưởng tượng",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/fictional"
+  },
+  {
+    "Id": "17",
+    "WordName": "fragile",
+    "WordType": "Adjective",
+    "EnglishDescription": "A fragile object is easily damaged or broken",
+    "VietMeaning": "Dễ vỡ",
+    "VietDescription": "Đồ vật dễ vỡ dễ bị hư hỏng hoặc vỡ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/fragile"
+  },
+  {
+    "Id": "18",
+    "WordName": "wrinkle",
+    "WordType": "Noun",
+    "EnglishDescription": "A small line in the skin caused by old age",
+    "VietMeaning": "Nếp nhăn",
+    "VietDescription": "Một đường nhỏ trên da do tuổi già",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/wrinkle"
+  },
+  {
+    "Id": "19",
+    "WordName": "virtue",
+    "WordType": "Noun",
+    "EnglishDescription": "A good moral quality in a person, or the general quality of being morally good",
+    "VietMeaning": "Đức hạnh",
+    "VietDescription": "Một phẩm chất đạo đức tốt ở một người, hoặc phẩm chất chung của việc tốt về mặt đạo đức",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/virtue"
+  },
+
+  {
+    "Id": "20",
+    "WordName": "tiresome",
+    "WordType": "Adjective",
+    "EnglishDescription": "Annoying and making you lose patience",
+    "VietMeaning": "Mệt mỏi",
+    "VietDescription": "Khó chịu và làm bạn mất kiên nhẫn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/tiresome"
   }
 ]

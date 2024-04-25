@@ -43,5 +43,145 @@
     "VietMeaning": "Sự tham nhũng",
     "VietDescription": "Hành vi bất hợp pháp, xấu hoặc không trung thực, đặc biệt là của những người có quyền lực",
     "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/corruption"
+  },
+  
+  {
+    "Id": "6",
+    "WordName": "aesthetic",
+    "WordType": "Adjective ",
+    "EnglishDescription": "Relating to the enjoyment or study of beauty",
+    "VietMeaning": "Thẩm mỹ",
+    "VietDescription": "Liên quan đến việc thưởng thức hoặc nghiên cứu về vẻ đẹp",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/aesthetic"
+  },
+  {
+    "Id": "7",
+    "WordName": "bishop",
+    "WordType": "Noun",
+    "EnglishDescription": "A priest of high rank who is in charge of the priests of lower rank in a particular area",
+    "VietMeaning": "Giám mục",
+    "VietDescription": "Một linh mục cấp cao phụ trách các linh mục cấp thấp hơn trong một khu vực cụ thể",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/bishop"
+  },
+  {
+    "Id": "8",
+    "WordName": "buddy",
+    "WordType": "Noun",
+    "EnglishDescription": "A friend",
+    "VietMeaning": "Bạn bè",
+    "VietDescription": "Bạn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/buddy"
+  },
+  {
+    "Id": "9",
+    "WordName": "civilian",
+    "WordType": "Noun",
+    "EnglishDescription": "A person who is not a member of the police or the armed forces",
+    "VietMeaning": "Thường dân",
+    "VietDescription": "Một người không phải là thành viên của cảnh sát hoặc lực lượng vũ trang",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/civilian"
+  },
+
+  {
+    "Id": "10",
+    "WordName": "crawl",
+    "WordType": "Verb",
+    "EnglishDescription": "To move along on hands and knees or with your body stretched out along a surface",
+    "VietMeaning": "Bò, trườn",
+    "VietDescription": "Di chuyển bằng tay và đầu gối hoặc với cơ thể duỗi dọc theo một bề mặt",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/crawl"
+  },
+  
+  {
+    "Id": "11",
+    "WordName": "demon",
+    "WordType": "Noun",
+    "EnglishDescription": "An evil spirit",
+    "VietMeaning": "Con quỷ",
+    "VietDescription": "Một linh hồn xấu xa",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/demon"
+  },
+  {
+    "Id": "12",
+    "WordName": "dissolve",
+    "WordType": "Verb",
+    "EnglishDescription": "To be absorbed by a liquid, especially when mixed, or (of a liquid) to absorb a solid",
+    "VietMeaning": "Hòa tan",
+    "VietDescription": "Được hấp thụ bởi chất lỏng, đặc biệt là khi trộn, hoặc (của chất lỏng) để hấp thụ chất rắn",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/dissolve"
+  },
+  {
+    "Id": "13",
+    "WordName": "enquire",
+    "WordType": "Verb",
+    "EnglishDescription": "To inquire",
+    "VietMeaning": "Hỏi thăm",
+    "VietDescription": "Hỏi",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/enquire"
+  },
+  {
+    "Id": "14",
+    "WordName": "eternal",
+    "WordType": "Adjective",
+    "EnglishDescription": "Lasting forever or for a very long time",
+    "VietMeaning": "Vĩnh hằng",
+    "VietDescription": "Kéo dài mãi mãi hoặc trong một thời gian rất dài",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/eternal"
+  },
+
+  {
+    "Id": "15",
+    "WordName": "feat",
+    "WordType": "Noun",
+    "EnglishDescription": "Something difficult needing a lot of skill, strength, courage, etc. to achieve it",
+    "VietMeaning": "Kỳ tích",
+    "VietDescription": "Điều gì đó khó khăn cần rất nhiều kỹ năng, sức mạnh, lòng can đảm, v.v. để đạt được nó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/feat"
+  },
+   {
+    "Id": "16",
+    "WordName": "fleet",
+    "WordType": "Noun",
+    "EnglishDescription": "A group of ships, or all of the ships in a country's navy",
+    "VietMeaning": "Hạm đội",
+    "VietDescription": "Một nhóm tàu hoặc tất cả các tàu trong hải quân của một quốc gia",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/fleet"
+  },
+  {
+    "Id": "17",
+    "WordName": "grasp",
+    "WordType": "Verb",
+    "EnglishDescription": "To quickly take something in your hand(s) and hold it firmly",
+    "VietMeaning": "Nắm lấy",
+    "VietDescription": "Nhanh chóng lấy cái gì đó trong tay và giữ chặt nó",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/grasp"
+  },
+  {
+    "Id": "18",
+    "WordName": "horizon",
+    "WordType": "Noun",
+    "EnglishDescription": "The line at the farthest place that you can see, where the sky seems to touch the land or sea",
+    "VietMeaning": "Chân trời",
+    "VietDescription": "Đường ở nơi xa nhất mà bạn có thể nhìn thấy, nơi bầu trời dường như chạm vào đất liền hoặc biển",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/horizon"
+  },
+  {
+    "Id": "19",
+    "WordName": "structural",
+    "WordType": "Adjective",
+    "EnglishDescription": "Relating to the way in which parts of a system or object are arranged",
+    "VietMeaning": "Cấu trúc",
+    "VietDescription": "Liên quan đến cách thức mà các bộ phận của một hệ thống hoặc đối tượng được sắp xếp",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/structural"
+  },
+
+  {
+    "Id": "20",
+    "WordName": "warrior",
+    "WordType": "Noun",
+    "EnglishDescription": "A soldier, usually one who has both experience and skill in fighting, especially in the past",
+    "VietMeaning": "Chiến binh",
+    "VietDescription": "Một người lính, thường là người có cả kinh nghiệm và kỹ năng chiến đấu, đặc biệt là trong quá khứ",
+    "TranslationSource": "https://dictionary.cambridge.org/dictionary/english/warrior"
   }
 ]
