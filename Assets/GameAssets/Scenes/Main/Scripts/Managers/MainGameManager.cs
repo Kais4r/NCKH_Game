@@ -1,11 +1,11 @@
-using System.Collections.Generic;
-using UnityEngine;
 using System;
-using System.Linq;
-using Random = UnityEngine.Random;
 using System.Collections;
+using System.Collections.Generic;
+using System.Linq;
 using UnityEditor.SceneManagement;
+using UnityEngine;
 using UnityEngine.SceneManagement;
+using Random = UnityEngine.Random;
 
 public enum GameState
 {
@@ -18,10 +18,12 @@ public enum GameState
 public class MainGameManager : MonoBehaviour
 {
     // Other Managers
-    [SerializeField] private MainUIManager _mainUIManager;
+    [SerializeField]
+    private MainUIManager _mainUIManager;
 
     // Data related
-    [SerializeField] private DataFunctions _dataFunctions;
+    [SerializeField]
+    private DataFunctions _dataFunctions;
     private List<EnglishWord> _allEnglishWords;
     private List<EnglishWord> _thisLevelEnglishWords;
     private List<EnglishWord> _wordToGuessList;
@@ -30,7 +32,6 @@ public class MainGameManager : MonoBehaviour
 
     private EnglishWord _wordToGuess;
     private string correctAnswer;
-
 
     // Audio related
     [SerializeField]
@@ -42,22 +43,24 @@ public class MainGameManager : MonoBehaviour
     [SerializeField]
     private AudioClip incorrectSound;
 
-
     // Game management
     private string _CEFRLevel; // this will be taken from singleton
-    [SerializeField] private ListRange _levelWordRange;
+
+    [SerializeField]
+    private ListRange _levelWordRange;
     public GameState gameState;
     private int _score = 0;
     private int _playerHP = 2;
     public bool answerResult;
 
     // UI Related
-    [SerializeField] private List<GameObject> _quizTypePanels;
+    [SerializeField]
+    private List<GameObject> _quizTypePanels;
 
     private void Awake()
     {
         // Take in level and mode
-        if(GameManagerSingleton.instance != null)
+        if (GameManagerSingleton.instance != null)
         {
             _CEFRLevel = GameManagerSingleton.instance.cefrLevel;
         }
@@ -70,14 +73,16 @@ public class MainGameManager : MonoBehaviour
         // Load data from DataFunctions
         string data = _dataFunctions.ReadJsonData(_CEFRLevel + ".json");
         _allEnglishWords = _dataFunctions.ProcessJsonDataToEnglishWord(data);
-        _thisLevelEnglishWords = _allEnglishWords.GetRange(_levelWordRange.startIndex,_levelWordRange.count);
+        _thisLevelEnglishWords = _allEnglishWords.GetRange(
+            _levelWordRange.startIndex,
+            _levelWordRange.count
+        );
         _wordToGuessList = _thisLevelEnglishWords.OrderBy(i => Guid.NewGuid()).ToList();
         _guessedWords = new List<EnglishWord>();
         _answerButtonContent = new List<String>();
 
         // Setting up UI
         _mainUIManager.playerHP.text = _playerHP.ToString();
-
 
         /*foreach (EnglishWord word in _thisLevelEnglishWords)
         {
@@ -107,6 +112,7 @@ public class MainGameManager : MonoBehaviour
         // Start generate question according to level and mode
         GenerateQuestion();
     }
+
     public void GenerateQuestion()
     {
         CreateTextOnlyQuiz();
@@ -129,7 +135,8 @@ public class MainGameManager : MonoBehaviour
             _wordToGuessList.RemoveAt(0);
 
             // Process question ui
-            _mainUIManager.quizContentText.text = _wordToGuess.WordName + " là gì";
+            _mainUIManager.quizContentText.text =
+                "<i><color=#FFC96F>" + _wordToGuess.WordName + "</color></i>" + " có nghĩa là:";
 
             // Process answer button data
             _answerButtonContent.Clear();
@@ -150,7 +157,7 @@ public class MainGameManager : MonoBehaviour
             for (int i = 0; i < 4; i++)
             {
                 _mainUIManager.answerButtonsContent[i].text = _answerButtonContent[i];
-            } 
+            }
         }
     }
 
@@ -168,7 +175,7 @@ public class MainGameManager : MonoBehaviour
             AudioManager.Instance.PlaySound(audioSource, incorrectSound);
 
             _playerHP--;
-            if(_playerHP <= 0)
+            if (_playerHP <= 0)
             {
                 SceneManager.LoadScene("LevelSelection");
             }
@@ -176,6 +183,7 @@ public class MainGameManager : MonoBehaviour
             StartCoroutine(ProcessAnswer(false));
         }
     }
+
     IEnumerator ProcessAnswer(bool result)
     {
         gameState = GameState.ProcessAnswer;
@@ -185,7 +193,6 @@ public class MainGameManager : MonoBehaviour
             _mainUIManager.playerScore.text = "Diem so: " + _score.ToString();
             answerResult = true;
             //change color of 2d button to Green
-
         }
         else
         {
